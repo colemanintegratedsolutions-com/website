@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-27T14:32:42Z",
+  "updated": "2026-04-27T16:22:31Z",
   "items": [
+    {
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400"
+    },
+    {
+      "title": "Home security giant ADT data breach affects 5.5 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400"
+    },
     {
       "title": "Webinar: Spotting cyberattacks before they begin",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
@@ -51,16 +61,6 @@
       "title": "Firestarter malware survives Cisco firewall updates, security patches",
       "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
       "pubDate": "Fri, 24 Apr 2026 16:34:08 -0400"
-    },
-    {
-      "title": "Windows Update gets new controls to reduce forced restarts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400"
-    },
-    {
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "pubDate": "Fri, 24 Apr 2026 14:26:27 -0400"
     }
   ]
 }
