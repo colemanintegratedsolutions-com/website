@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-01T23:13:18Z",
+  "updated": "2026-05-02T00:10:59Z",
   "items": [
+    {
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "pubDate": "Fri, 01 May 2026 19:43:35 -0400"
+    },
     {
       "title": "15-year-old detained over French govt agency data breach",
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
@@ -56,11 +61,6 @@
       "title": "April KB5083769 Windows 11 update causes backup software failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
       "pubDate": "Thu, 30 Apr 2026 11:23:03 -0400"
-    },
-    {
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "pubDate": "Thu, 30 Apr 2026 10:02:12 -0400"
     }
   ]
 }
