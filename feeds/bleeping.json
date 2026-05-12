@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-12T19:59:54Z",
+  "updated": "2026-05-12T21:23:44Z",
   "items": [
+    {
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "pubDate": "Tue, 12 May 2026 16:17:19 -0400"
+    },
     {
       "title": "Webinar: Fixing the gaps in network incident response",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
@@ -56,11 +61,6 @@
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
       "pubDate": "Tue, 12 May 2026 05:23:56 -0400"
-    },
-    {
-      "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
-      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "pubDate": "Mon, 11 May 2026 18:40:34 -0400"
     }
   ]
 }
