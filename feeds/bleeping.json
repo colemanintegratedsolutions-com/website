@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T07:28:11Z",
+  "updated": "2026-05-14T09:55:36Z",
   "items": [
+    {
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "pubDate": "Thu, 14 May 2026 04:55:46 -0400"
+    },
+    {
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "pubDate": "Thu, 14 May 2026 03:34:19 -0400"
+    },
     {
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
       "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
@@ -51,16 +61,6 @@
       "title": "Microsoft says some users can't install Office on Windows 365 devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
       "pubDate": "Wed, 13 May 2026 07:53:54 -0400"
-    },
-    {
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "pubDate": "Tue, 12 May 2026 19:09:55 -0400"
-    },
-    {
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "pubDate": "Tue, 12 May 2026 16:17:19 -0400"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-14T07:28:11Z",
+  "updated": "2026-05-14T09:55:36Z",
   "items": [
+    {
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "pubDate": "Thu, 14 May 2026 12:36:15 +0530"
+    },
     {
       "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
@@ -56,11 +61,6 @@
       "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
       "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
       "pubDate": "Tue, 12 May 2026 18:20:00 +0530"
-    },
-    {
-      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
-      "pubDate": "Tue, 12 May 2026 17:28:00 +0530"
     }
   ]
 }
