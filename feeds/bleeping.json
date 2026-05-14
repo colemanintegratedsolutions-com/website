@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T13:53:12Z",
+  "updated": "2026-05-14T16:07:01Z",
   "items": [
+    {
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "pubDate": "Thu, 14 May 2026 11:43:41 -0400"
+    },
+    {
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "pubDate": "Thu, 14 May 2026 11:21:32 -0400"
+    },
     {
       "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
       "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
@@ -51,16 +61,6 @@
       "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
       "pubDate": "Wed, 13 May 2026 11:42:46 -0400"
-    },
-    {
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "pubDate": "Wed, 13 May 2026 10:36:09 -0400"
-    },
-    {
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "pubDate": "Wed, 13 May 2026 08:49:54 -0400"
     }
   ]
 }
