@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-15T13:49:24Z",
+  "updated": "2026-05-15T15:59:20Z",
   "items": [
+    {
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "pubDate": "Fri, 15 May 2026 19:05:04 +0530"
+    },
     {
       "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
       "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
@@ -56,11 +61,6 @@
       "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
       "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
       "pubDate": "Thu, 14 May 2026 14:55:50 +0530"
-    },
-    {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "pubDate": "Thu, 14 May 2026 12:36:15 +0530"
     }
   ]
 }
