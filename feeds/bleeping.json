@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-18T09:45:59Z",
+  "updated": "2026-05-18T13:39:04Z",
   "items": [
+    {
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "pubDate": "Mon, 18 May 2026 07:14:28 -0400"
+    },
     {
       "title": "Microsoft confirms Windows 11 security update install issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
@@ -56,11 +61,6 @@
       "title": "Avada Builder WordPress plugin flaws allow site credential theft",
       "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
       "pubDate": "Fri, 15 May 2026 11:56:56 -0400"
-    },
-    {
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "pubDate": "Fri, 15 May 2026 10:49:39 -0400"
     }
   ]
 }
