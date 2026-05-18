@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-18T16:44:04Z",
+  "updated": "2026-05-18T18:27:23Z",
   "items": [
+    {
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "pubDate": "Mon, 18 May 2026 13:28:02 -0400"
+    },
     {
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
       "pubDate": "Fri, 15 May 2026 13:47:25 -0400"
-    },
-    {
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "pubDate": "Fri, 15 May 2026 13:10:42 -0400"
     }
   ]
 }
