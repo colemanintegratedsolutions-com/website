@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-20T11:25:15Z",
+  "updated": "2026-05-20T14:02:39Z",
   "items": [
+    {
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "pubDate": "Wed, 20 May 2026 08:52:29 -0400"
+    },
     {
       "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
       "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
@@ -56,11 +61,6 @@
       "title": "Microsoft blames macOS update for undismissible Teams location prompts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
       "pubDate": "Tue, 19 May 2026 12:10:47 -0400"
-    },
-    {
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "pubDate": "Tue, 19 May 2026 10:30:22 -0400"
     }
   ]
 }
