@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-21T14:01:10Z",
+  "updated": "2026-05-21T17:10:13Z",
   "items": [
+    {
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "pubDate": "Thu, 21 May 2026 11:11:08 -0400"
+    },
     {
       "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
       "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
@@ -56,11 +61,6 @@
       "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
       "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
       "pubDate": "Wed, 20 May 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "pubDate": "Wed, 20 May 2026 08:52:29 -0400"
     }
   ]
 }
