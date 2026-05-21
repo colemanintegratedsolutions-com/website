@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-21T10:35:16Z",
+  "updated": "2026-05-21T14:01:10Z",
   "items": [
+    {
+      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
+      "pubDate": "Thu, 21 May 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Chinese hackers target telcos with new Linux, Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "pubDate": "Thu, 21 May 2026 10:00:00 -0400"
+    },
+    {
+      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "pubDate": "Thu, 21 May 2026 09:58:33 -0400"
+    },
+    {
+      "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+      "pubDate": "Thu, 21 May 2026 09:09:51 -0400"
+    },
+    {
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "pubDate": "Thu, 21 May 2026 07:00:00 -0400"
+    },
     {
       "title": "Microsoft warns of new Defender zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
@@ -36,31 +61,6 @@
       "title": "Drupal critical update to fix bug with high exploitation risk",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
       "pubDate": "Wed, 20 May 2026 08:52:29 -0400"
-    },
-    {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "pubDate": "Wed, 20 May 2026 06:52:31 -0400"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "pubDate": "Wed, 20 May 2026 04:14:08 -0400"
-    },
-    {
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "pubDate": "Wed, 20 May 2026 03:31:15 -0400"
-    },
-    {
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "pubDate": "Wed, 20 May 2026 01:08:42 -0400"
-    },
-    {
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "pubDate": "Tue, 19 May 2026 18:25:49 -0400"
     }
   ]
 }
