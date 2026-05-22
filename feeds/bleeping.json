@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-22T10:20:08Z",
+  "updated": "2026-05-22T12:37:38Z",
   "items": [
+    {
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "pubDate": "Fri, 22 May 2026 08:00:42 -0400"
+    },
     {
       "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
       "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
@@ -56,11 +61,6 @@
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
       "pubDate": "Wed, 20 May 2026 17:36:24 -0400"
-    },
-    {
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "pubDate": "Wed, 20 May 2026 17:19:17 -0400"
     }
   ]
 }
