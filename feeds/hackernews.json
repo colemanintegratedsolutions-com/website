@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-25T02:46:30Z",
+  "updated": "2026-05-25T07:07:32Z",
   "items": [
+    {
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "pubDate": "Mon, 25 May 2026 11:29:13 +0530"
+    },
     {
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
       "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
@@ -56,11 +61,6 @@
       "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
       "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
       "pubDate": "Fri, 22 May 2026 14:20:18 +0530"
-    },
-    {
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "pubDate": "Fri, 22 May 2026 11:17:33 +0530"
     }
   ]
 }
