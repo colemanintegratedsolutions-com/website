@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-25T07:07:32Z",
+  "updated": "2026-05-25T11:34:00Z",
   "items": [
+    {
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "pubDate": "Mon, 25 May 2026 15:02:54 +0530"
+    },
     {
       "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
       "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
@@ -56,11 +61,6 @@
       "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
       "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
       "pubDate": "Fri, 22 May 2026 17:08:12 +0530"
-    },
-    {
-      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-      "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "pubDate": "Fri, 22 May 2026 14:20:18 +0530"
     }
   ]
 }
