@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-26T04:01:40Z",
+  "updated": "2026-05-26T08:05:21Z",
   "items": [
+    {
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "pubDate": "Tue, 26 May 2026 03:41:25 -0400"
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "pubDate": "Tue, 26 May 2026 03:01:12 -0400"
+    },
     {
       "title": "Anthropic\u2019s restricted Claude Mythos model may be coming to Claude Code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
@@ -51,16 +61,6 @@
       "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
       "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
       "pubDate": "Fri, 22 May 2026 09:09:18 -0400"
-    },
-    {
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "pubDate": "Fri, 22 May 2026 08:00:42 -0400"
-    },
-    {
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "pubDate": "Fri, 22 May 2026 05:01:20 -0400"
     }
   ]
 }
