@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-28T10:49:25Z",
+  "updated": "2026-05-28T14:32:30Z",
   "items": [
+    {
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "pubDate": "Thu, 28 May 2026 10:25:43 -0400"
+    },
+    {
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "pubDate": "Thu, 28 May 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+      "pubDate": "Thu, 28 May 2026 08:43:29 -0400"
+    },
+    {
+      "title": "Webinar: Why network incidents take too long to resolve",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+      "pubDate": "Thu, 28 May 2026 08:20:28 -0400"
+    },
+    {
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "pubDate": "Thu, 28 May 2026 06:49:27 -0400"
+    },
     {
       "title": "Sextortionist sentenced to 33 years for targeting 145 children",
       "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
@@ -36,31 +61,6 @@
       "title": "Dutch police arrests suspect linked to Ajax football club hack",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
       "pubDate": "Wed, 27 May 2026 05:09:03 -0400"
-    },
-    {
-      "title": "Windows 11 KB5089573 update released with performance improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-      "pubDate": "Wed, 27 May 2026 04:33:46 -0400"
-    },
-    {
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "pubDate": "Tue, 26 May 2026 16:07:31 -0400"
-    },
-    {
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "pubDate": "Tue, 26 May 2026 15:46:01 -0400"
-    },
-    {
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "pubDate": "Tue, 26 May 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "pubDate": "Tue, 26 May 2026 08:19:43 -0400"
     }
   ]
 }

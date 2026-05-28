@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-28T10:49:25Z",
+  "updated": "2026-05-28T14:32:30Z",
   "items": [
+    {
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "pubDate": "Thu, 28 May 2026 19:23:52 +0530"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "pubDate": "Thu, 28 May 2026 19:03:16 +0530"
+    },
+    {
+      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+      "pubDate": "Thu, 28 May 2026 17:00:00 +0530"
+    },
     {
       "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
       "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
@@ -46,21 +61,6 @@
       "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
       "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
       "pubDate": "Tue, 26 May 2026 21:18:41 +0530"
-    },
-    {
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "pubDate": "Tue, 26 May 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "pubDate": "Tue, 26 May 2026 17:19:53 +0530"
-    },
-    {
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "pubDate": "Tue, 26 May 2026 16:00:00 +0530"
     }
   ]
 }
