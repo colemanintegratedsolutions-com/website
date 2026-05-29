@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-29T06:48:26Z",
+  "updated": "2026-05-29T10:39:33Z",
   "items": [
+    {
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "pubDate": "Fri, 29 May 2026 14:41:25 +0530"
+    },
     {
       "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
       "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
@@ -56,11 +61,6 @@
       "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
       "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
       "pubDate": "Wed, 27 May 2026 17:18:37 +0530"
-    },
-    {
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "pubDate": "Wed, 27 May 2026 17:15:00 +0530"
     }
   ]
 }
