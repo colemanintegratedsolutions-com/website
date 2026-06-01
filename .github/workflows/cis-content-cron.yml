@@ -10,10 +10,11 @@ name: CIS Brand Content Cron
 
 on:
   schedule:
-    # 8:00 AM Central, weekdays. Central = UTC-5 (CDT) / UTC-6 (CST).
-    # 13:00 UTC = 8:00 AM CDT (Mar-Nov). Adjust by 1 hr seasonally if you care.
-    - cron: "0 13 * * 1-5"
-  workflow_dispatch:  # manual run
+    # 12:00 UTC = 7 AM CDT (most of the year) or 6 AM CST (Nov-Mar).
+    # Combined with the 0-120min random sleep below, the actual send time falls
+    # 7-9 AM Central in summer / 6-8 AM Central in winter. Close enough.
+    - cron: "0 12 * * 1-5"
+  workflow_dispatch:  # manual run, no random delay
 
 permissions:
   contents: read
@@ -22,6 +23,15 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
+      - name: Random delay (0-120 min) for natural send timing
+        if: github.event_name == 'schedule'
+        run: |
+          # 0-7200 second random delay. Spreads daily fires uniformly across 7-9 AM Central.
+          # Skipped on workflow_dispatch (manual runs fire immediately).
+          delay=$(( RANDOM % 7201 ))
+          echo "Sleeping ${delay}s ($(printf '%dm%ds' $((delay/60)) $((delay%60)))) before firing /cron"
+          sleep "$delay"
+
       - name: Hit /cron on the brand webhook
         env:
           CRON_TOKEN: ${{ secrets.CIS_CRON_TOKEN }}
