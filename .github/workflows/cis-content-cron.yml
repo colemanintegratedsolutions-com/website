@@ -1,0 +1,41 @@
+# Weekday-morning cron that fires the /cron endpoint on the brand webhook.
+# Place at .github/workflows/cis-content-cron.yml in the colemanintegrated.com repo
+# (or any GitHub repo you control — same effect either way).
+#
+# Required repo secret: CIS_CRON_TOKEN
+#   Get value by running on your machine:
+#     cd ~/scripts/x-content && .venv/bin/python3 -c "import mailer; print(mailer.sign('cron', 'fire'))"
+
+name: CIS Brand Content Cron
+
+on:
+  schedule:
+    # 8:00 AM Central, weekdays. Central = UTC-5 (CDT) / UTC-6 (CST).
+    # 13:00 UTC = 8:00 AM CDT (Mar-Nov). Adjust by 1 hr seasonally if you care.
+    - cron: "0 13 * * 1-5"
+  workflow_dispatch:  # manual run
+
+permissions:
+  contents: read
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hit /cron on the brand webhook
+        env:
+          CRON_TOKEN: ${{ secrets.CIS_CRON_TOKEN }}
+        run: |
+          set -euo pipefail
+          URL="https://cis-brand-x-webhook.azurewebsites.net/cron"
+          # Custom domain posts.colemanintegrated.com is bound but Azure F1 doesn't support
+          # managed SSL. Upgrade to B1 ($13/mo) later to switch to the branded URL.
+          response=$(curl -sS -X POST "$URL" \
+            -H "X-Cron-Token: $CRON_TOKEN" \
+            -H "Content-Type: application/json" \
+            -w "\n%{http_code}")
+          body=$(echo "$response" | head -n -1)
+          code=$(echo "$response" | tail -n 1)
+          echo "HTTP $code"
+          echo "$body"
+          [[ "$code" == "200" ]] || exit 1
