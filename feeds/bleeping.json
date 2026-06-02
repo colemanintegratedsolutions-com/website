@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-02T18:01:28Z",
+  "updated": "2026-06-02T21:28:13Z",
   "items": [
+    {
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "pubDate": "Tue, 02 Jun 2026 16:01:20 -0400"
+    },
     {
       "title": "Microsoft Exchange Online outage causes email delays, failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
@@ -56,11 +61,6 @@
       "title": "Microsoft investigates Office Apps, Teams file access issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
       "pubDate": "Mon, 01 Jun 2026 10:36:46 -0400"
-    },
-    {
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "pubDate": "Mon, 01 Jun 2026 10:00:10 -0400"
     }
   ]
 }
