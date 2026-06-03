@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T02:05:07Z",
+  "updated": "2026-06-03T07:19:56Z",
   "items": [
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "pubDate": "Wed, 03 Jun 2026 02:50:30 -0400"
+    },
     {
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
@@ -18,8 +23,8 @@
       "pubDate": "Tue, 02 Jun 2026 18:12:57 -0400"
     },
     {
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "pubDate": "Tue, 02 Jun 2026 17:54:49 -0400"
     },
     {
@@ -56,11 +61,6 @@
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
       "pubDate": "Mon, 01 Jun 2026 18:14:19 -0400"
-    },
-    {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400"
     }
   ]
 }
