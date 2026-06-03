@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T12:17:54Z",
+  "updated": "2026-06-03T17:24:37Z",
   "items": [
+    {
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "pubDate": "Wed, 03 Jun 2026 11:36:16 -0400"
+    },
+    {
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "pubDate": "Wed, 03 Jun 2026 10:02:12 -0400"
+    },
     {
       "title": "Acer working to patch max severity zero-days in Wave 7 routers",
       "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
@@ -51,16 +61,6 @@
       "title": "Microsoft Exchange Online outage causes email delays, failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
       "pubDate": "Tue, 02 Jun 2026 13:02:40 -0400"
-    },
-    {
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "pubDate": "Tue, 02 Jun 2026 11:47:33 -0400"
-    },
-    {
-      "title": "Why the browser is now the front line for AI security",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "pubDate": "Tue, 02 Jun 2026 10:30:40 -0400"
     }
   ]
 }
