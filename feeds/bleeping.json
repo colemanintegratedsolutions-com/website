@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T20:34:05Z",
+  "updated": "2026-06-03T22:59:41Z",
   "items": [
+    {
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "pubDate": "Wed, 03 Jun 2026 17:45:27 -0400"
+    },
     {
       "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
@@ -56,11 +61,6 @@
       "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
       "pubDate": "Tue, 02 Jun 2026 18:44:50 -0400"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "pubDate": "Tue, 02 Jun 2026 18:12:57 -0400"
     }
   ]
 }
