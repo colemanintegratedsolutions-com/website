@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef2f7"/>
+    </linearGradient>
+    <linearGradient id="iconGrad" gradientUnits="userSpaceOnUse" x1="120" y1="200" x2="360" y2="440">
+      <stop offset="0" stop-color="#00D8FF"/>
+      <stop offset="1" stop-color="#0059FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Inlined brand C-mark, scaled and positioned. Source viewBox is 2200x1500 — scaled
+       down by ~0.165 to land at ~360x250 px at position (120, 195). The original consists
+       of two polygons forming the hexagonal "C" with gradient fill. -->
+  <g transform="translate(120, 195) scale(0.165)">
+    <polygon fill="url(#iconGrad)"
+      points="1154.3,453.6 1306.5,453.6 1477.4,750 1306.5,1046.4 1154.3,1046.4 1325.2,750"/>
+    <polygon fill="url(#iconGrad)"
+      points="893.7,453.6 1071.3,453.6 1210.6,695.2 1058.4,695.2 982.4,563.4 874.8,750 982.4,936.7 1058.4,804.8 1210.6,804.8 1071.3,1046.4 893.7,1046.4 722.6,750"/>
+  </g>
+
+  <!-- Wordmark text -->
+  <text x="500" y="290" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="88" font-weight="800" fill="#0b1220" letter-spacing="2">COLEMAN</text>
+  <text x="500" y="345" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="600" fill="#00D8FF" letter-spacing="6">INTEGRATED SOLUTIONS</text>
+  <!-- Tagline -->
+  <text x="500" y="430" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="28" font-weight="500" fill="#4b5563">Automation · Compliance · Network</text>
+  <text x="500" y="475" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="400" fill="#6b7280">Audit-ready evidence in hours, not weeks.</text>
+
+  <!-- bottom URL strip -->
+  <rect x="0" y="580" width="1200" height="50" fill="#0059FF"/>
+  <text x="600" y="613" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="600" fill="#ffffff" letter-spacing="3">colemanintegrated.com</text>
+</svg>
