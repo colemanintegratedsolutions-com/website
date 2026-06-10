@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T19:47:56Z",
+  "updated": "2026-06-10T20:52:15Z",
   "items": [
+    {
+      "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "pubDate": "Wed, 10 Jun 2026 16:27:08 -0400"
+    },
     {
       "title": "GitHub announces npm security changes to tackle supply-chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
@@ -56,11 +61,6 @@
       "title": "ServiceNow discloses security incident exposing customer data",
       "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
       "pubDate": "Tue, 09 Jun 2026 17:34:09 -0400"
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "pubDate": "Tue, 09 Jun 2026 17:20:20 -0400"
     }
   ]
 }
