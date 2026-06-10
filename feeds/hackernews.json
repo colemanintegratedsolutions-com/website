@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-10T05:30:52Z",
+  "updated": "2026-06-10T07:27:05Z",
   "items": [
+    {
+      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+      "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+      "pubDate": "Wed, 10 Jun 2026 10:52:01 +0530"
+    },
     {
       "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
       "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
@@ -56,11 +61,6 @@
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
       "pubDate": "Tue, 09 Jun 2026 11:56:14 +0530"
-    },
-    {
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "pubDate": "Tue, 09 Jun 2026 01:47:39 +0530"
     }
   ]
 }
