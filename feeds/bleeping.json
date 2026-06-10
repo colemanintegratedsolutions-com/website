@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T13:06:58Z",
+  "updated": "2026-06-10T14:32:17Z",
   "items": [
+    {
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "pubDate": "Wed, 10 Jun 2026 10:05:15 -0400"
+    },
+    {
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 09:44:19 -0400"
+    },
     {
       "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
@@ -51,16 +61,6 @@
       "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
       "pubDate": "Tue, 09 Jun 2026 13:57:59 -0400"
-    },
-    {
-      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "pubDate": "Tue, 09 Jun 2026 13:32:32 -0400"
-    },
-    {
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "pubDate": "Tue, 09 Jun 2026 12:16:38 -0400"
     }
   ]
 }
