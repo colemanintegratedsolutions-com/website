@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-10T07:27:05Z",
+  "updated": "2026-06-10T08:48:40Z",
   "items": [
+    {
+      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
+      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
+      "pubDate": "Wed, 10 Jun 2026 13:07:59 +0530"
+    },
+    {
+      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+      "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
+      "pubDate": "Wed, 10 Jun 2026 12:32:08 +0530"
+    },
     {
       "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
       "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
@@ -51,16 +61,6 @@
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
       "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
       "pubDate": "Tue, 09 Jun 2026 15:20:41 +0530"
-    },
-    {
-      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
-      "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-      "pubDate": "Tue, 09 Jun 2026 14:43:32 +0530"
-    },
-    {
-      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
-      "pubDate": "Tue, 09 Jun 2026 11:56:14 +0530"
     }
   ]
 }
