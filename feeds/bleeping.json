@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T18:51:35Z",
+  "updated": "2026-06-10T19:47:56Z",
   "items": [
+    {
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 15:41:44 -0400"
+    },
     {
       "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
       "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
       "pubDate": "Tue, 09 Jun 2026 17:20:20 -0400"
-    },
-    {
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "pubDate": "Tue, 09 Jun 2026 15:36:27 -0400"
     }
   ]
 }
