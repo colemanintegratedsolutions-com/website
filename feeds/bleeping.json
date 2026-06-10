@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T10:25:39Z",
+  "updated": "2026-06-10T11:44:48Z",
   "items": [
+    {
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "pubDate": "Wed, 10 Jun 2026 07:33:32 -0400"
+    },
     {
       "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
@@ -56,11 +61,6 @@
       "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
       "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
       "pubDate": "Tue, 09 Jun 2026 12:16:38 -0400"
-    },
-    {
-      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
-      "pubDate": "Tue, 09 Jun 2026 11:42:40 -0400"
     }
   ]
 }
