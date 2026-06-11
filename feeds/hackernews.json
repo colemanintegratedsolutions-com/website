@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-11T10:38:15Z",
+  "updated": "2026-06-11T12:21:01Z",
   "items": [
+    {
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "pubDate": "Thu, 11 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
       "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
       "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
       "pubDate": "Wed, 10 Jun 2026 10:52:01 +0530"
-    },
-    {
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "pubDate": "Wed, 10 Jun 2026 10:38:35 +0530"
     }
   ]
 }
