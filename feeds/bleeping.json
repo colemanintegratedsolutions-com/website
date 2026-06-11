@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T13:48:10Z",
+  "updated": "2026-06-11T15:10:10Z",
   "items": [
+    {
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
+    },
     {
       "title": "Coupang hit with record $409 million data breach fine in Korea",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
@@ -56,11 +61,6 @@
       "title": "The 5 Best Practices for Secure Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
       "pubDate": "Wed, 10 Jun 2026 10:05:15 -0400"
-    },
-    {
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "pubDate": "Wed, 10 Jun 2026 09:44:19 -0400"
     }
   ]
 }
