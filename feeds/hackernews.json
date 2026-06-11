@@ -1,14 +1,19 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-11T16:46:54Z",
+  "updated": "2026-06-11T18:02:39Z",
   "items": [
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "pubDate": "Thu, 11 Jun 2026 22:20:47 +0530"
+    },
     {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
       "pubDate": "Thu, 11 Jun 2026 18:56:13 +0530"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "pubDate": "Thu, 11 Jun 2026 18:50:41 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
       "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
       "pubDate": "Wed, 10 Jun 2026 15:08:13 +0530"
-    },
-    {
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-      "pubDate": "Wed, 10 Jun 2026 13:07:59 +0530"
     }
   ]
 }
