@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-12T12:05:31Z",
+  "updated": "2026-06-12T13:39:50Z",
   "items": [
+    {
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "pubDate": "Fri, 12 Jun 2026 17:34:33 +0530"
+    },
     {
       "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
       "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
@@ -56,11 +61,6 @@
       "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
       "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
       "pubDate": "Thu, 11 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "pubDate": "Thu, 11 Jun 2026 15:15:58 +0530"
     }
   ]
 }
