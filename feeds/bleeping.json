@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T16:30:10Z",
+  "updated": "2026-06-12T17:28:05Z",
   "items": [
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400"
+    },
     {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
       "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
@@ -56,11 +61,6 @@
       "title": "Coupang hit with record $409 million data breach fine in Korea",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
       "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400"
-    },
-    {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400"
     }
   ]
 }
