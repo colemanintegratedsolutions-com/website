@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T18:16:53Z",
+  "updated": "2026-06-12T19:14:00Z",
   "items": [
+    {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "pubDate": "Fri, 12 Jun 2026 14:19:34 -0400"
+    },
     {
       "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
@@ -56,11 +61,6 @@
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
       "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
       "pubDate": "Thu, 11 Jun 2026 11:55:41 -0400"
-    },
-    {
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
     }
   ]
 }
