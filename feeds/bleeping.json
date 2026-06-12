@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T10:30:16Z",
+  "updated": "2026-06-12T12:05:31Z",
   "items": [
+    {
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "pubDate": "Fri, 12 Jun 2026 07:44:58 -0400"
+    },
     {
       "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
       "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
       "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400"
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400"
     }
   ]
 }
