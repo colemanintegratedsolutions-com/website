@@ -1,5 +1,66 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T00:00:37Z",
-  "items": []
+  "updated": "2026-06-12T01:32:38Z",
+  "items": [
+    {
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "pubDate": "Thu, 11 Jun 2026 19:14:16 -0400"
+    },
+    {
+      "title": "Maine breach portal abused to publish fake data breach disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "pubDate": "Thu, 11 Jun 2026 18:44:58 -0400"
+    },
+    {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400"
+    },
+    {
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "pubDate": "Thu, 11 Jun 2026 11:55:41 -0400"
+    },
+    {
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400"
+    },
+    {
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400"
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "pubDate": "Thu, 11 Jun 2026 03:27:53 -0400"
+    },
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400"
+    },
+    {
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 17:23:44 -0400"
+    },
+    {
+      "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "pubDate": "Wed, 10 Jun 2026 16:27:08 -0400"
+    }
+  ]
 }
