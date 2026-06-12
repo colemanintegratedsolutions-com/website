@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T17:28:05Z",
+  "updated": "2026-06-12T18:16:53Z",
   "items": [
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "pubDate": "Fri, 12 Jun 2026 13:54:28 -0400"
+    },
     {
       "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
@@ -56,11 +61,6 @@
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
       "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400"
     }
   ]
 }
