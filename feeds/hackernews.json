@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-15T05:14:08Z",
+  "updated": "2026-06-15T07:16:11Z",
   "items": [
+    {
+      "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
+      "link": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html",
+      "pubDate": "Mon, 15 Jun 2026 12:00:22 +0530"
+    },
+    {
+      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+      "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+      "pubDate": "Mon, 15 Jun 2026 11:47:32 +0530"
+    },
     {
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
       "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
@@ -51,16 +61,6 @@
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
       "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
       "pubDate": "Fri, 12 Jun 2026 12:08:41 +0530"
-    },
-    {
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "pubDate": "Fri, 12 Jun 2026 01:59:23 +0530"
-    },
-    {
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "pubDate": "Thu, 11 Jun 2026 23:16:32 +0530"
     }
   ]
 }
