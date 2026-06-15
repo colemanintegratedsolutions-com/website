@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-15T16:36:33Z",
+  "updated": "2026-06-15T18:30:16Z",
   "items": [
+    {
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "pubDate": "Mon, 15 Jun 2026 13:37:07 -0400"
+    },
+    {
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "pubDate": "Mon, 15 Jun 2026 13:12:42 -0400"
+    },
+    {
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "pubDate": "Mon, 15 Jun 2026 12:37:11 -0400"
+    },
     {
       "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
@@ -46,21 +61,6 @@
       "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
       "pubDate": "Sat, 13 Jun 2026 10:06:42 -0400"
-    },
-    {
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "pubDate": "Sat, 13 Jun 2026 06:01:32 -0400"
-    },
-    {
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "pubDate": "Fri, 12 Jun 2026 15:33:32 -0400"
-    },
-    {
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "pubDate": "Fri, 12 Jun 2026 14:19:34 -0400"
     }
   ]
 }
