@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-15T12:01:59Z",
+  "updated": "2026-06-15T14:37:10Z",
   "items": [
+    {
+      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
+      "pubDate": "Mon, 15 Jun 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Chinese hackers breach REDCap servers, steal medical research",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+      "pubDate": "Mon, 15 Jun 2026 10:00:00 -0400"
+    },
+    {
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400"
+    },
+    {
+      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
+      "pubDate": "Mon, 15 Jun 2026 08:38:55 -0400"
+    },
+    {
+      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
+      "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400"
+    },
     {
       "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
@@ -36,31 +61,6 @@
       "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
       "pubDate": "Fri, 12 Jun 2026 13:54:28 -0400"
-    },
-    {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400"
-    },
-    {
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "pubDate": "Fri, 12 Jun 2026 07:44:58 -0400"
-    },
-    {
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "pubDate": "Fri, 12 Jun 2026 06:13:19 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "pubDate": "Fri, 12 Jun 2026 04:26:55 -0400"
     }
   ]
 }
