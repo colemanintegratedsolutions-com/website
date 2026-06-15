@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-15T18:30:16Z",
+  "updated": "2026-06-15T20:08:41Z",
   "items": [
+    {
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "pubDate": "Mon, 15 Jun 2026 16:06:52 -0400"
+    },
     {
       "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
@@ -56,11 +61,6 @@
       "title": "Ex-school district employee jailed for hacks on former employer",
       "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
       "pubDate": "Sat, 13 Jun 2026 16:53:13 -0400"
-    },
-    {
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "pubDate": "Sat, 13 Jun 2026 10:06:42 -0400"
     }
   ]
 }
