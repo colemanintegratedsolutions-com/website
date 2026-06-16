@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T05:15:09Z",
+  "updated": "2026-06-16T07:17:09Z",
   "items": [
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400"
+    },
     {
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
@@ -56,11 +61,6 @@
       "title": "Webinar: How behavioral AI stops phishing and account takeovers",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
       "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400"
-    },
-    {
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400"
     }
   ]
 }
