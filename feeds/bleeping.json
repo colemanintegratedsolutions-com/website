@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T07:17:09Z",
+  "updated": "2026-06-16T09:17:08Z",
   "items": [
+    {
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "pubDate": "Tue, 16 Jun 2026 05:00:00 -0400"
+    },
     {
       "title": "iRhythm discloses data breach, says hackers stole patient info",
       "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
@@ -56,11 +61,6 @@
       "title": "Infinite Campus data breach affects 137,000 school staff accounts",
       "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
       "pubDate": "Mon, 15 Jun 2026 08:38:55 -0400"
-    },
-    {
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400"
     }
   ]
 }
