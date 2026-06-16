@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T21:29:35Z",
+  "updated": "2026-06-16T22:20:05Z",
   "items": [
+    {
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "pubDate": "Tue, 16 Jun 2026 17:54:50 -0400"
+    },
     {
       "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
       "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
@@ -56,11 +61,6 @@
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
       "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400"
-    },
-    {
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "pubDate": "Mon, 15 Jun 2026 16:06:52 -0400"
     }
   ]
 }
