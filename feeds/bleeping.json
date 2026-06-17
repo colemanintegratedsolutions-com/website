@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-17T13:12:56Z",
+  "updated": "2026-06-17T14:32:31Z",
   "items": [
+    {
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "pubDate": "Wed, 17 Jun 2026 10:00:10 -0400"
+    },
     {
       "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
       "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
@@ -56,11 +61,6 @@
       "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
       "pubDate": "Tue, 16 Jun 2026 09:42:19 -0400"
-    },
-    {
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "pubDate": "Tue, 16 Jun 2026 06:47:59 -0400"
     }
   ]
 }
