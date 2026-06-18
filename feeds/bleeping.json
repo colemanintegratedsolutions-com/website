@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T10:37:33Z",
+  "updated": "2026-06-18T12:08:47Z",
   "items": [
+    {
+      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "pubDate": "Thu, 18 Jun 2026 07:33:00 -0400"
+    },
     {
       "title": "Microsoft fixes Windows Server 2016 security update failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
@@ -56,11 +61,6 @@
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "pubDate": "Tue, 16 Jun 2026 17:54:50 -0400"
-    },
-    {
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "pubDate": "Tue, 16 Jun 2026 16:04:11 -0400"
     }
   ]
 }
