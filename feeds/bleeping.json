@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T09:11:10Z",
+  "updated": "2026-06-19T11:01:46Z",
   "items": [
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "pubDate": "Fri, 19 Jun 2026 06:39:58 -0400"
+    },
     {
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
@@ -56,11 +61,6 @@
       "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
       "pubDate": "Thu, 18 Jun 2026 08:23:58 -0400"
-    },
-    {
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "pubDate": "Thu, 18 Jun 2026 08:18:49 -0400"
     }
   ]
 }
