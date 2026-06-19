@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T07:14:42Z",
+  "updated": "2026-06-19T09:11:10Z",
   "items": [
+    {
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "pubDate": "Fri, 19 Jun 2026 04:44:08 -0400"
+    },
     {
       "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
@@ -56,11 +61,6 @@
       "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
       "pubDate": "Thu, 18 Jun 2026 08:18:49 -0400"
-    },
-    {
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "pubDate": "Thu, 18 Jun 2026 07:33:00 -0400"
     }
   ]
 }
