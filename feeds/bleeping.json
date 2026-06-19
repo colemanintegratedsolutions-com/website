@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T12:45:37Z",
+  "updated": "2026-06-19T14:02:09Z",
   "items": [
+    {
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "pubDate": "Fri, 19 Jun 2026 09:10:19 -0400"
+    },
     {
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
@@ -56,11 +61,6 @@
       "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
       "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
       "pubDate": "Thu, 18 Jun 2026 09:25:47 -0400"
-    },
-    {
-      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-      "pubDate": "Thu, 18 Jun 2026 08:55:36 -0400"
     }
   ]
 }
