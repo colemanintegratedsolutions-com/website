@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T19:40:58Z",
+  "updated": "2026-06-22T20:59:43Z",
   "items": [
+    {
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "pubDate": "Mon, 22 Jun 2026 16:01:02 -0400"
+    },
     {
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
@@ -56,11 +61,6 @@
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
       "pubDate": "Fri, 19 Jun 2026 08:12:20 -0400"
-    },
-    {
-      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-      "pubDate": "Fri, 19 Jun 2026 07:32:34 -0400"
     }
   ]
 }
