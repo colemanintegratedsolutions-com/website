@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T20:59:43Z",
+  "updated": "2026-06-22T21:46:49Z",
   "items": [
+    {
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "pubDate": "Mon, 22 Jun 2026 17:05:01 -0400"
+    },
     {
       "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
@@ -56,11 +61,6 @@
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
       "pubDate": "Fri, 19 Jun 2026 09:10:19 -0400"
-    },
-    {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "pubDate": "Fri, 19 Jun 2026 08:12:20 -0400"
     }
   ]
 }
