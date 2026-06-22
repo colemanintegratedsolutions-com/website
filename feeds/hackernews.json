@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-22T05:48:27Z",
+  "updated": "2026-06-22T07:57:10Z",
   "items": [
+    {
+      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+      "pubDate": "Mon, 22 Jun 2026 12:27:44 +0530"
+    },
+    {
+      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+      "pubDate": "Mon, 22 Jun 2026 11:36:53 +0530"
+    },
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
       "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
@@ -51,16 +61,6 @@
       "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
       "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
       "pubDate": "Fri, 19 Jun 2026 12:06:09 +0530"
-    },
-    {
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-      "pubDate": "Thu, 18 Jun 2026 23:02:14 +0530"
-    },
-    {
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "pubDate": "Thu, 18 Jun 2026 21:03:49 +0530"
     }
   ]
 }
