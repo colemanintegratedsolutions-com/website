@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T21:46:49Z",
+  "updated": "2026-06-22T22:33:37Z",
   "items": [
+    {
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400"
+    },
     {
       "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
       "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
@@ -56,11 +61,6 @@
       "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "pubDate": "Fri, 19 Jun 2026 12:12:41 -0400"
-    },
-    {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "pubDate": "Fri, 19 Jun 2026 09:10:19 -0400"
     }
   ]
 }
