@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T14:18:17Z",
+  "updated": "2026-06-23T15:31:24Z",
   "items": [
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "pubDate": "Tue, 23 Jun 2026 19:52:03 +0530"
+    },
     {
       "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
       "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
       "pubDate": "Mon, 22 Jun 2026 16:25:10 +0530"
-    },
-    {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "pubDate": "Mon, 22 Jun 2026 14:41:37 +0530"
     }
   ]
 }
