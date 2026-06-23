@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T12:00:51Z",
+  "updated": "2026-06-23T13:25:35Z",
   "items": [
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "pubDate": "Tue, 23 Jun 2026 08:12:20 -0400"
+    },
     {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
@@ -56,11 +61,6 @@
       "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "pubDate": "Fri, 19 Jun 2026 18:31:04 -0400"
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400"
     }
   ]
 }
