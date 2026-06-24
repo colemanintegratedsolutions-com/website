@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-24T09:04:42Z",
+  "updated": "2026-06-24T10:30:40Z",
   "items": [
+    {
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "pubDate": "Wed, 24 Jun 2026 14:25:12 +0530"
+    },
     {
       "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
       "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
@@ -56,11 +61,6 @@
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
       "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
       "pubDate": "Mon, 22 Jun 2026 21:59:00 +0530"
-    },
-    {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "pubDate": "Mon, 22 Jun 2026 21:43:28 +0530"
     }
   ]
 }
