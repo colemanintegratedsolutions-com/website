@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T19:14:11Z",
+  "updated": "2026-06-25T20:13:53Z",
   "items": [
+    {
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "pubDate": "Thu, 25 Jun 2026 15:45:48 -0400"
+    },
     {
       "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
       "pubDate": "Wed, 24 Jun 2026 10:35:15 -0400"
-    },
-    {
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "pubDate": "Wed, 24 Jun 2026 10:35:11 -0400"
     }
   ]
 }
