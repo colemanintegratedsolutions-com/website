@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T14:16:14Z",
+  "updated": "2026-06-25T15:27:32Z",
   "items": [
+    {
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "pubDate": "Thu, 25 Jun 2026 11:00:00 -0400"
+    },
     {
       "title": "The Four Elevations of Effective Fraud Prevention",
       "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
@@ -56,11 +61,6 @@
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
       "pubDate": "Tue, 23 Jun 2026 17:48:32 -0400"
-    },
-    {
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "pubDate": "Tue, 23 Jun 2026 17:06:32 -0400"
     }
   ]
 }
