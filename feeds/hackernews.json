@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-25T11:23:48Z",
+  "updated": "2026-06-25T12:15:55Z",
   "items": [
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "pubDate": "Thu, 25 Jun 2026 16:47:31 +0530"
+    },
     {
       "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
       "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
@@ -56,11 +61,6 @@
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
       "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
       "pubDate": "Tue, 23 Jun 2026 20:46:43 +0530"
-    },
-    {
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "pubDate": "Tue, 23 Jun 2026 20:46:40 +0530"
     }
   ]
 }
