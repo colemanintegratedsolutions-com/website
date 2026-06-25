@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T13:15:35Z",
+  "updated": "2026-06-25T14:16:14Z",
   "items": [
+    {
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "pubDate": "Thu, 25 Jun 2026 10:01:11 -0400"
+    },
     {
       "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
@@ -56,11 +61,6 @@
       "title": "Tata Electronics confirms cyberattack as hackers leak data",
       "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
       "pubDate": "Tue, 23 Jun 2026 17:06:32 -0400"
-    },
-    {
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "pubDate": "Tue, 23 Jun 2026 16:22:21 -0400"
     }
   ]
 }
