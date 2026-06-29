@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-29T09:07:45Z",
+  "updated": "2026-06-29T11:13:57Z",
   "items": [
+    {
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "pubDate": "Mon, 29 Jun 2026 14:02:31 +0530"
+    },
     {
       "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
       "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
@@ -56,11 +61,6 @@
       "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
       "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
       "pubDate": "Fri, 26 Jun 2026 17:21:35 +0530"
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "pubDate": "Fri, 26 Jun 2026 17:00:00 +0530"
     }
   ]
 }
