@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T07:47:08Z",
+  "updated": "2026-06-30T09:05:07Z",
   "items": [
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400"
+    },
     {
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
       "pubDate": "Sun, 28 Jun 2026 10:13:46 -0400"
-    },
-    {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "pubDate": "Sat, 27 Jun 2026 10:22:36 -0400"
     }
   ]
 }
