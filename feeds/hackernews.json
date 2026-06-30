@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-30T17:34:52Z",
+  "updated": "2026-06-30T18:35:04Z",
   "items": [
     {
       "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
