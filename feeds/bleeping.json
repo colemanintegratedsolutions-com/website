@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T09:45:17Z",
+  "updated": "2026-07-01T11:04:36Z",
   "items": [
+    {
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "pubDate": "Wed, 01 Jul 2026 06:52:26 -0400"
+    },
     {
       "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
@@ -56,11 +61,6 @@
       "title": "Microsoft adds smarter bot protection to Teams meetings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
       "pubDate": "Tue, 30 Jun 2026 06:52:26 -0400"
-    },
-    {
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "pubDate": "Tue, 30 Jun 2026 05:46:39 -0400"
     }
   ]
 }
