@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-01T11:04:36Z",
+  "updated": "2026-07-01T12:22:04Z",
   "items": [
+    {
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "pubDate": "Wed, 01 Jul 2026 16:11:36 +0530"
+    },
     {
       "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
       "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
@@ -56,11 +61,6 @@
       "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
       "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
       "pubDate": "Tue, 30 Jun 2026 19:19:34 +0530"
-    },
-    {
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-      "pubDate": "Tue, 30 Jun 2026 17:00:00 +0530"
     }
   ]
 }
