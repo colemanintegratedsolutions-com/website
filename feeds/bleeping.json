@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T17:15:06Z",
+  "updated": "2026-07-01T18:10:19Z",
   "items": [
+    {
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "pubDate": "Wed, 01 Jul 2026 13:32:22 -0400"
+    },
     {
       "title": "Webinar: Why traditional email security is no longer enough",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
@@ -56,11 +61,6 @@
       "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
       "pubDate": "Tue, 30 Jun 2026 17:20:06 -0400"
-    },
-    {
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "pubDate": "Tue, 30 Jun 2026 17:02:55 -0400"
     }
   ]
 }
