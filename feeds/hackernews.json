@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-01T15:24:28Z",
+  "updated": "2026-07-01T16:16:50Z",
   "items": [
+    {
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "pubDate": "Wed, 01 Jul 2026 20:56:55 +0530"
+    },
+    {
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "pubDate": "Wed, 01 Jul 2026 20:55:46 +0530"
+    },
+    {
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "pubDate": "Wed, 01 Jul 2026 20:12:54 +0530"
+    },
     {
       "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
       "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
@@ -46,21 +61,6 @@
       "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
       "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "pubDate": "Wed, 01 Jul 2026 09:24:22 +0530"
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "pubDate": "Tue, 30 Jun 2026 23:16:07 +0530"
-    },
-    {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "pubDate": "Tue, 30 Jun 2026 23:15:25 +0530"
-    },
-    {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "pubDate": "Tue, 30 Jun 2026 21:17:20 +0530"
     }
   ]
 }
