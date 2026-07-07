@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-07T08:49:42Z",
+  "updated": "2026-07-07T11:40:19Z",
   "items": [
+    {
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "pubDate": "Tue, 07 Jul 2026 05:41:19 -0400"
+    },
     {
       "title": "BeyondTrust warns of critical flaws in remote access software",
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
@@ -56,11 +61,6 @@
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
       "pubDate": "Fri, 03 Jul 2026 10:12:22 -0400"
-    },
-    {
-      "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "pubDate": "Thu, 02 Jul 2026 21:37:09 -0400"
     }
   ]
 }
