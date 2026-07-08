@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-08T11:20:39Z",
+  "updated": "2026-07-08T12:57:49Z",
   "items": [
+    {
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "pubDate": "Wed, 08 Jul 2026 08:00:00 -0400"
+    },
+    {
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "pubDate": "Wed, 08 Jul 2026 07:24:16 -0400"
+    },
     {
       "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
@@ -51,16 +61,6 @@
       "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
       "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
       "pubDate": "Tue, 07 Jul 2026 08:06:09 -0400"
-    },
-    {
-      "title": "Microsoft to enable Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-      "pubDate": "Tue, 07 Jul 2026 05:41:19 -0400"
-    },
-    {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "pubDate": "Tue, 07 Jul 2026 04:12:10 -0400"
     }
   ]
 }
