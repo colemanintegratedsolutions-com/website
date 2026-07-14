@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-14T04:44:53Z",
+  "updated": "2026-07-14T07:06:10Z",
   "items": [
+    {
+      "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+      "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+      "pubDate": "Tue, 14 Jul 2026 11:49:24 +0530"
+    },
     {
       "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
       "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
@@ -56,11 +61,6 @@
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
       "pubDate": "Sat, 11 Jul 2026 23:29:26 +0530"
-    },
-    {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "pubDate": "Sat, 11 Jul 2026 23:19:31 +0530"
     }
   ]
 }
