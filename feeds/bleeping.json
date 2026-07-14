@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-14T11:03:12Z",
+  "updated": "2026-07-14T12:45:29Z",
   "items": [
+    {
+      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "pubDate": "Tue, 14 Jul 2026 07:42:21 -0400"
+    },
     {
       "title": "Microsoft starts testing cleaner Windows Search without ads",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
@@ -56,11 +61,6 @@
       "title": "US and allies warn of Russian critical infrastructure attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
       "pubDate": "Mon, 13 Jul 2026 05:32:23 -0400"
-    },
-    {
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "pubDate": "Sun, 12 Jul 2026 20:44:44 -0400"
     }
   ]
 }
