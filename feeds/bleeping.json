@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-16T20:24:22Z",
+  "updated": "2026-07-16T21:30:12Z",
   "items": [
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "pubDate": "Thu, 16 Jul 2026 17:09:41 -0400"
+    },
     {
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
@@ -56,11 +61,6 @@
       "title": "Zoom warns of critical account takeover vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
       "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400"
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400"
     }
   ]
 }
