@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T10:18:46Z",
+  "updated": "2026-07-21T12:07:10Z",
   "items": [
+    {
+      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+      "pubDate": "Tue, 21 Jul 2026 07:07:07 -0400"
+    },
     {
       "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Hugging Face warns an autonomous AI agent hacked its network",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
       "pubDate": "Mon, 20 Jul 2026 07:56:28 -0400"
-    },
-    {
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "pubDate": "Mon, 20 Jul 2026 06:47:28 -0400"
     }
   ]
 }
