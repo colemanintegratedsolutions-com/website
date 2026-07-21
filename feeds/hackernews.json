@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-21T07:53:14Z",
+  "updated": "2026-07-21T10:18:46Z",
   "items": [
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "pubDate": "Tue, 21 Jul 2026 14:29:30 +0530"
+    },
     {
       "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
       "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
@@ -56,11 +61,6 @@
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
       "pubDate": "Mon, 20 Jul 2026 10:57:26 +0530"
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "pubDate": "Mon, 20 Jul 2026 10:45:39 +0530"
     }
   ]
 }
