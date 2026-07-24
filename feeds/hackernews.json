@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-24T15:51:49Z",
+  "updated": "2026-07-24T17:22:19Z",
   "items": [
+    {
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "pubDate": "Fri, 24 Jul 2026 20:42:35 +0530"
+    },
     {
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
       "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "pubDate": "Thu, 23 Jul 2026 20:32:07 +0530"
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "pubDate": "Thu, 23 Jul 2026 18:57:59 +0530"
     }
   ]
 }
