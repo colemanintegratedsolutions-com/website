@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T17:22:19Z",
+  "updated": "2026-07-24T18:54:07Z",
   "items": [
+    {
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400"
+    },
     {
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -56,11 +61,6 @@
       "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
       "pubDate": "Thu, 23 Jul 2026 12:32:35 -0400"
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "pubDate": "Thu, 23 Jul 2026 11:34:43 -0400"
     }
   ]
 }
