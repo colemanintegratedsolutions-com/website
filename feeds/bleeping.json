@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T16:56:29Z",
+  "updated": "2026-07-28T18:11:22Z",
   "items": [
+    {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400"
+    },
     {
       "title": "Is Your SSO Protected Against Modern Credential Attacks?",
       "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
@@ -56,11 +61,6 @@
       "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
       "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400"
     }
   ]
 }
