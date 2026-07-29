@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T05:17:30Z",
+  "updated": "2026-07-29T08:02:51Z",
   "items": [
+    {
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "pubDate": "Wed, 29 Jul 2026 12:37:23 +0530"
+    },
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "pubDate": "Wed, 29 Jul 2026 12:15:02 +0530"
+    },
     {
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
       "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
@@ -51,16 +61,6 @@
       "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "pubDate": "Tue, 28 Jul 2026 11:37:22 +0530"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "pubDate": "Tue, 28 Jul 2026 10:13:53 +0530"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "pubDate": "Mon, 27 Jul 2026 23:40:05 +0530"
     }
   ]
 }
