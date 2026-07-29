@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-29T20:44:37Z",
+  "updated": "2026-07-29T21:53:18Z",
   "items": [
+    {
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "pubDate": "Wed, 29 Jul 2026 17:39:29 -0400"
+    },
+    {
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "pubDate": "Wed, 29 Jul 2026 17:35:40 -0400"
+    },
     {
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
@@ -51,16 +61,6 @@
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400"
-    },
-    {
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400"
     }
   ]
 }
