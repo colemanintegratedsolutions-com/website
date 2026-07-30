@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-30T17:18:33Z",
+  "updated": "2026-07-30T18:53:36Z",
   "items": [
+    {
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "pubDate": "Thu, 30 Jul 2026 14:13:24 -0400"
+    },
+    {
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "pubDate": "Thu, 30 Jul 2026 14:00:51 -0400"
+    },
     {
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
       "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
@@ -51,16 +61,6 @@
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
       "pubDate": "Wed, 29 Jul 2026 12:04:59 -0400"
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "pubDate": "Wed, 29 Jul 2026 10:55:57 -0400"
-    },
-    {
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400"
     }
   ]
 }
