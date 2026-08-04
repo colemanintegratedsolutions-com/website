@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-04T18:23:56Z",
+  "updated": "2026-08-04T20:07:04Z",
   "items": [
+    {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "pubDate": "Tue, 04 Aug 2026 15:03:09 -0400"
+    },
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "pubDate": "Tue, 04 Aug 2026 14:50:55 -0400"
+    },
     {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
@@ -51,16 +61,6 @@
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "pubDate": "Sun, 02 Aug 2026 18:31:41 -0400"
-    },
-    {
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "pubDate": "Sun, 02 Aug 2026 17:14:29 -0400"
-    },
-    {
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "pubDate": "Sun, 02 Aug 2026 10:17:16 -0400"
     }
   ]
 }
