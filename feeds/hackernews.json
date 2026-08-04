@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-04T10:29:31Z",
+  "updated": "2026-08-04T12:26:29Z",
   "items": [
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "pubDate": "Tue, 04 Aug 2026 16:06:27 +0530"
+    },
     {
       "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
       "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
@@ -56,11 +61,6 @@
       "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
       "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
       "pubDate": "Mon, 03 Aug 2026 12:11:46 +0530"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "pubDate": "Mon, 03 Aug 2026 12:10:31 +0530"
     }
   ]
 }
