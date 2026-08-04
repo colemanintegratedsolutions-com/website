@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-04T12:26:29Z",
+  "updated": "2026-08-04T14:58:41Z",
   "items": [
+    {
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "pubDate": "Tue, 04 Aug 2026 19:00:23 +0530"
+    },
+    {
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "pubDate": "Tue, 04 Aug 2026 18:41:22 +0530"
+    },
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "pubDate": "Tue, 04 Aug 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "pubDate": "Tue, 04 Aug 2026 16:46:23 +0530"
+    },
     {
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
       "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
@@ -41,26 +61,6 @@
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
       "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "pubDate": "Mon, 03 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "pubDate": "Mon, 03 Aug 2026 16:19:06 +0530"
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "pubDate": "Mon, 03 Aug 2026 14:43:56 +0530"
-    },
-    {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "pubDate": "Mon, 03 Aug 2026 13:35:30 +0530"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "pubDate": "Mon, 03 Aug 2026 12:11:46 +0530"
     }
   ]
 }
