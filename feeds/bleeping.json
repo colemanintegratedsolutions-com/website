@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T11:29:14Z",
+  "updated": "2026-08-10T12:08:55Z",
   "items": [
+    {
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "pubDate": "Mon, 10 Aug 2026 07:47:55 -0400"
+    },
     {
       "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Swiss government SharePoint breach compromised 200 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
       "pubDate": "Thu, 06 Aug 2026 14:14:19 -0400"
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "pubDate": "Thu, 06 Aug 2026 14:03:45 -0400"
     }
   ]
 }
