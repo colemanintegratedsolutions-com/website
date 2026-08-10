@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T12:08:55Z",
+  "updated": "2026-08-10T13:51:48Z",
   "items": [
+    {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "pubDate": "Mon, 10 Aug 2026 08:56:28 -0400"
+    },
+    {
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "pubDate": "Mon, 10 Aug 2026 08:11:52 -0400"
+    },
     {
       "title": "Valve notifies Steam hardware customers of a data breach",
       "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
@@ -51,16 +61,6 @@
       "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "pubDate": "Thu, 06 Aug 2026 18:37:17 -0400"
-    },
-    {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "pubDate": "Thu, 06 Aug 2026 16:07:24 -0400"
-    },
-    {
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "pubDate": "Thu, 06 Aug 2026 14:14:19 -0400"
     }
   ]
 }
