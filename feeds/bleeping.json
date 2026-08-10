@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T13:51:48Z",
+  "updated": "2026-08-10T14:51:13Z",
   "items": [
+    {
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "pubDate": "Mon, 10 Aug 2026 10:34:32 -0400"
+    },
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "pubDate": "Mon, 10 Aug 2026 10:01:11 -0400"
+    },
     {
       "title": "Member of The Com sent to prison for blackmail, sextortion",
       "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
@@ -51,16 +61,6 @@
       "title": "North Carolina Ports confirms cyberattack disrupting operations",
       "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
       "pubDate": "Fri, 07 Aug 2026 09:34:40 -0400"
-    },
-    {
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "pubDate": "Thu, 06 Aug 2026 18:48:22 -0400"
-    },
-    {
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "pubDate": "Thu, 06 Aug 2026 18:37:17 -0400"
     }
   ]
 }
