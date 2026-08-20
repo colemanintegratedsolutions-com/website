@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-20T13:39:31Z",
+  "updated": "2026-08-20T14:27:37Z",
   "items": [
+    {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400"
+    },
     {
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
@@ -56,11 +61,6 @@
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
       "pubDate": "Wed, 19 Aug 2026 13:50:01 -0400"
-    },
-    {
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "pubDate": "Wed, 19 Aug 2026 11:56:09 -0400"
     }
   ]
 }
