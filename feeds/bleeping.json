@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-31T02:46:28Z",
+  "updated": "2026-08-31T09:09:48Z",
   "items": [
+    {
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "pubDate": "Mon, 31 Aug 2026 04:29:42 -0400"
+    },
     {
       "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
       "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
@@ -56,11 +61,6 @@
       "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
       "pubDate": "Fri, 28 Aug 2026 08:58:43 -0400"
-    },
-    {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "pubDate": "Fri, 28 Aug 2026 07:46:57 -0400"
     }
   ]
 }
