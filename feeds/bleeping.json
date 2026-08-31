@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-31T17:09:09Z",
+  "updated": "2026-08-31T21:58:04Z",
   "items": [
+    {
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "pubDate": "Mon, 31 Aug 2026 16:47:54 -0400"
+    },
+    {
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "pubDate": "Mon, 31 Aug 2026 14:51:04 -0400"
+    },
     {
       "title": "Microsoft Exchange Online outage causes email failures, auth issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
@@ -51,16 +61,6 @@
       "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
       "pubDate": "Sun, 30 Aug 2026 10:30:25 -0400"
-    },
-    {
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "pubDate": "Sun, 30 Aug 2026 10:17:44 -0400"
-    },
-    {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "pubDate": "Sat, 29 Aug 2026 19:11:51 -0400"
     }
   ]
 }
