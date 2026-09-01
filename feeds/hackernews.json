@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-01T11:52:30Z",
+  "updated": "2026-09-01T15:52:14Z",
   "items": [
+    {
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "pubDate": "Tue, 01 Sep 2026 19:37:20 +0530"
+    },
+    {
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "pubDate": "Tue, 01 Sep 2026 18:38:58 +0530"
+    },
     {
       "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
       "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
@@ -51,16 +61,6 @@
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
       "pubDate": "Mon, 31 Aug 2026 14:34:55 +0530"
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "pubDate": "Mon, 31 Aug 2026 13:26:53 +0530"
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "pubDate": "Sun, 30 Aug 2026 13:06:33 +0530"
     }
   ]
 }
