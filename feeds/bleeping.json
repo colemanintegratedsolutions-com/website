@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-01T15:52:14Z",
+  "updated": "2026-09-01T19:05:41Z",
   "items": [
+    {
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "pubDate": "Tue, 01 Sep 2026 13:54:22 -0400"
+    },
     {
       "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
@@ -56,11 +61,6 @@
       "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
       "pubDate": "Mon, 31 Aug 2026 10:52:03 -0400"
-    },
-    {
-      "title": "File servers are here to stay. Here\u2019s how to manage them securely",
-      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "pubDate": "Mon, 31 Aug 2026 10:00:10 -0400"
     }
   ]
 }
