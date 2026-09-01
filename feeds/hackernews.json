@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-01T06:25:26Z",
+  "updated": "2026-09-01T11:52:30Z",
   "items": [
+    {
+      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530"
+    },
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "pubDate": "Tue, 01 Sep 2026 13:56:24 +0530"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "pubDate": "Tue, 01 Sep 2026 12:52:30 +0530"
+    },
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
@@ -41,26 +61,6 @@
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
       "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
       "pubDate": "Sun, 30 Aug 2026 13:06:33 +0530"
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "pubDate": "Sat, 29 Aug 2026 21:55:03 +0530"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "pubDate": "Sat, 29 Aug 2026 03:00:52 +0530"
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "pubDate": "Sat, 29 Aug 2026 02:08:47 +0530"
-    },
-    {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "pubDate": "Fri, 28 Aug 2026 22:42:15 +0530"
     }
   ]
 }
