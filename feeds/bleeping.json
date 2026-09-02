@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-02T07:12:58Z",
+  "updated": "2026-09-02T12:11:32Z",
   "items": [
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "pubDate": "Wed, 02 Sep 2026 06:29:39 -0400"
+    },
+    {
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400"
+    },
+    {
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "pubDate": "Wed, 02 Sep 2026 04:00:43 -0400"
+    },
     {
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
@@ -46,21 +61,6 @@
       "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
       "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
       "pubDate": "Tue, 01 Sep 2026 05:15:07 -0400"
-    },
-    {
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "pubDate": "Tue, 01 Sep 2026 03:48:24 -0400"
-    },
-    {
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "pubDate": "Mon, 31 Aug 2026 16:47:54 -0400"
-    },
-    {
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "pubDate": "Mon, 31 Aug 2026 14:51:04 -0400"
     }
   ]
 }
