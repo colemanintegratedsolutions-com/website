@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-07T05:32:26Z",
+  "updated": "2026-09-07T11:14:10Z",
   "items": [
+    {
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "pubDate": "Mon, 07 Sep 2026 06:36:37 -0400"
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "pubDate": "Mon, 07 Sep 2026 06:32:40 -0400"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "pubDate": "Mon, 07 Sep 2026 06:06:38 -0400"
+    },
+    {
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "pubDate": "Mon, 07 Sep 2026 02:17:41 -0400"
+    },
     {
       "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
@@ -41,26 +61,6 @@
       "title": "39 New Methods That Compromise Passkey Authentication",
       "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
       "pubDate": "Fri, 04 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "pubDate": "Fri, 04 Sep 2026 09:22:01 -0400"
-    },
-    {
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "pubDate": "Fri, 04 Sep 2026 08:22:30 -0400"
-    },
-    {
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "pubDate": "Fri, 04 Sep 2026 07:48:17 -0400"
-    },
-    {
-      "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "pubDate": "Thu, 03 Sep 2026 18:01:37 -0400"
     }
   ]
 }
