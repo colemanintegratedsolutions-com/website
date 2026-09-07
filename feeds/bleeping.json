@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-07T11:14:10Z",
+  "updated": "2026-09-07T16:34:13Z",
   "items": [
+    {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "pubDate": "Mon, 07 Sep 2026 11:39:51 -0400"
+    },
+    {
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "pubDate": "Mon, 07 Sep 2026 09:05:11 -0400"
+    },
+    {
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "pubDate": "Mon, 07 Sep 2026 08:16:32 -0400"
+    },
     {
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
@@ -46,21 +61,6 @@
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
       "pubDate": "Fri, 04 Sep 2026 12:56:45 -0400"
-    },
-    {
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "pubDate": "Fri, 04 Sep 2026 11:25:59 -0400"
-    },
-    {
-      "title": "Microsoft says some users can\u2019t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "pubDate": "Fri, 04 Sep 2026 10:30:15 -0400"
-    },
-    {
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "pubDate": "Fri, 04 Sep 2026 10:01:11 -0400"
     }
   ]
 }
