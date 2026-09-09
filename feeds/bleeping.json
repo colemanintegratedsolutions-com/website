@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T21:31:45Z",
+  "updated": "2026-09-09T23:43:47Z",
   "items": [
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "pubDate": "Wed, 09 Sep 2026 17:40:44 -0400"
+    },
     {
       "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
       "pubDate": "Tue, 08 Sep 2026 16:35:14 -0400"
-    },
-    {
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "pubDate": "Tue, 08 Sep 2026 16:24:16 -0400"
     }
   ]
 }
