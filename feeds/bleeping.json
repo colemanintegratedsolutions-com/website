@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-10T02:28:38Z",
+  "updated": "2026-09-10T07:27:11Z",
   "items": [
+    {
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "pubDate": "Thu, 10 Sep 2026 02:56:33 -0400"
+    },
     {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
       "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400"
-    },
-    {
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "pubDate": "Tue, 08 Sep 2026 16:35:14 -0400"
     }
   ]
 }
