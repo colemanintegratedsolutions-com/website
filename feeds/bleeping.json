@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T16:38:54Z",
+  "updated": "2026-09-11T19:22:42Z",
   "items": [
+    {
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "pubDate": "Fri, 11 Sep 2026 15:00:29 -0400"
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400"
+    },
     {
       "title": "Artifactory flaws chained in attacks deploying backdoor malware",
       "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
@@ -51,16 +61,6 @@
       "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
       "pubDate": "Thu, 10 Sep 2026 15:07:33 -0400"
-    },
-    {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400"
-    },
-    {
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400"
     }
   ]
 }
