@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T02:22:58Z",
+  "updated": "2026-09-11T07:23:02Z",
   "items": [
+    {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400"
+    },
     {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
@@ -56,11 +61,6 @@
       "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
       "pubDate": "Thu, 10 Sep 2026 05:10:20 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "pubDate": "Thu, 10 Sep 2026 04:08:16 -0400"
     }
   ]
 }
