@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T12:16:37Z",
+  "updated": "2026-09-11T16:38:54Z",
   "items": [
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400"
+    },
+    {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "GitLab urges users to patch max severity path traversal flaw",
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
@@ -51,16 +61,6 @@
       "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
       "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400"
-    },
-    {
-      "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-      "pubDate": "Thu, 10 Sep 2026 10:55:33 -0400"
-    },
-    {
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "pubDate": "Thu, 10 Sep 2026 10:11:34 -0400"
     }
   ]
 }
