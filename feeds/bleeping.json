@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-14T08:24:58Z",
+  "updated": "2026-09-14T15:08:28Z",
   "items": [
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "pubDate": "Mon, 14 Sep 2026 08:15:23 -0400"
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "pubDate": "Mon, 14 Sep 2026 05:50:25 -0400"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "pubDate": "Mon, 14 Sep 2026 04:48:24 -0400"
+    },
     {
       "title": "Microsoft: September updates break audio on some Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
@@ -41,26 +61,6 @@
       "title": "Artifactory flaws chained in attacks deploying backdoor malware",
       "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
       "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400"
-    },
-    {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "pubDate": "Fri, 11 Sep 2026 05:39:37 -0400"
-    },
-    {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "pubDate": "Fri, 11 Sep 2026 03:55:15 -0400"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-14T08:24:58Z",
+  "updated": "2026-09-14T15:08:28Z",
   "items": [
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "pubDate": "Mon, 14 Sep 2026 17:28:00 +0530"
+    },
     {
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
       "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
@@ -56,11 +61,6 @@
       "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
       "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
       "pubDate": "Fri, 11 Sep 2026 13:01:05 +0530"
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "pubDate": "Fri, 11 Sep 2026 12:44:09 +0530"
     }
   ]
 }
