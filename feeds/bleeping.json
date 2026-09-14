@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-14T15:08:28Z",
+  "updated": "2026-09-14T19:53:45Z",
   "items": [
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400"
+    },
+    {
+      "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400"
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400"
+    },
     {
       "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
       "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
@@ -41,26 +61,6 @@
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "pubDate": "Sat, 12 Sep 2026 10:14:32 -0400"
-    },
-    {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "pubDate": "Fri, 11 Sep 2026 16:19:09 -0400"
-    },
-    {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "pubDate": "Fri, 11 Sep 2026 15:00:29 -0400"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400"
     }
   ]
 }
