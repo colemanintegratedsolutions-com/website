@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T10:11:35Z",
+  "updated": "2026-09-17T15:07:48Z",
   "items": [
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400"
+    },
+    {
+      "title": "US takes down NightmareStresser DDoS-for-hire platform",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400"
+    },
     {
       "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
@@ -46,21 +61,6 @@
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
       "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "pubDate": "Wed, 16 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "pubDate": "Wed, 16 Sep 2026 08:11:19 -0400"
-    },
-    {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400"
     }
   ]
 }
