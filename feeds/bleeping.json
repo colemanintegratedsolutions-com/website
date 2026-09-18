@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-18T14:07:50Z",
+  "updated": "2026-09-18T17:45:04Z",
   "items": [
+    {
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "pubDate": "Fri, 18 Sep 2026 12:00:38 -0400"
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400"
+    },
     {
       "title": "Secure enterprise sharing with access reviews for Microsoft 365",
       "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
@@ -51,16 +61,6 @@
       "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
       "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400"
     }
   ]
 }
