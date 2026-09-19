@@ -1,10 +1,25 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-19T13:37:26Z",
+  "updated": "2026-09-19T16:57:36Z",
   "items": [
     {
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400"
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400"
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400"
+    },
+    {
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
       "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400"
     },
     {
@@ -46,21 +61,6 @@
       "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
       "pubDate": "Fri, 18 Sep 2026 03:35:31 -0400"
-    },
-    {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400"
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400"
     }
   ]
 }
