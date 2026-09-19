@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-19T09:38:51Z",
+  "updated": "2026-09-19T13:37:26Z",
   "items": [
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400"
+    },
     {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -56,11 +61,6 @@
       "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
       "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
       "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400"
-    },
-    {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
     }
   ]
 }
