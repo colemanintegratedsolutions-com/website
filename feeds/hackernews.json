@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-23T12:50:22Z",
+  "updated": "2026-09-23T17:37:32Z",
   "items": [
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "pubDate": "Wed, 23 Sep 2026 21:36:41 +0530"
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "pubDate": "Wed, 23 Sep 2026 19:47:58 +0530"
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "pubDate": "Wed, 23 Sep 2026 19:22:46 +0530"
+    },
     {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
@@ -46,21 +61,6 @@
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "pubDate": "Tue, 22 Sep 2026 23:59:39 +0530"
-    },
-    {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "pubDate": "Tue, 22 Sep 2026 23:33:10 +0530"
-    },
-    {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "pubDate": "Tue, 22 Sep 2026 23:28:15 +0530"
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "pubDate": "Tue, 22 Sep 2026 22:33:31 +0530"
     }
   ]
 }
