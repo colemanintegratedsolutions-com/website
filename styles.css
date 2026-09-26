@@ -1144,3 +1144,30 @@ h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; 
 }
 .roi-cta-row { display: flex; }
 .roi-cta-row .btn { font-size: .9rem; }
+
+/* --- Product screenshots (hero + gallery) --- */
+.hero .grid-2 { grid-template-columns: 1fr 1.1fr; }
+.hero-shot { min-width: 0; }
+.shot-frame {
+  background:#fff; border:1px solid var(--border); border-radius:.9rem; overflow:hidden;
+  box-shadow: 0 1px 2px rgba(11,18,32,.06), 0 12px 40px rgba(0,89,255,.14);
+}
+.shot-frame img { display:block; width:100%; height:auto; }
+.shot-bar {
+  display:flex; align-items:center; gap:.35rem; padding:.45rem .7rem;
+  background:var(--surface); border-bottom:1px solid var(--border);
+}
+.shot-bar span { width:9px; height:9px; border-radius:50%; background:var(--border); }
+.shot-bar em {
+  flex:1; margin-left:.5rem; font-style:normal; font-size:.7rem; color:var(--muted);
+  background:#fff; border:1px solid var(--border); border-radius:.4rem; padding:.15rem .6rem; text-align:center;
+}
+.shot-caption { font-size:.85rem; color:var(--muted); margin:.75rem .25rem 0; }
+.shot-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:2rem 1.5rem; }
+.shot-card { margin:0; min-width:0; }
+.shot-card figcaption h3 { margin:1rem 0 .35rem; font-size:1.05rem; }
+.shot-card figcaption p { margin:0; color:var(--muted); font-size:.95rem; }
+@media (max-width:900px) {
+  .hero .grid-2 { grid-template-columns:1fr; }
+  .shot-grid { grid-template-columns:1fr; }
+}
