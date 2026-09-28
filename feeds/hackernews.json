@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-28T12:33:27Z",
+  "updated": "2026-09-28T19:55:52Z",
   "items": [
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "pubDate": "Mon, 28 Sep 2026 23:50:38 +0530"
+    },
+    {
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "pubDate": "Mon, 28 Sep 2026 23:12:18 +0530"
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "pubDate": "Mon, 28 Sep 2026 23:08:33 +0530"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "pubDate": "Mon, 28 Sep 2026 19:30:53 +0530"
+    },
     {
       "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
       "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
@@ -41,26 +61,6 @@
       "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
       "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "pubDate": "Sat, 26 Sep 2026 16:00:00 +0530"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "pubDate": "Sat, 26 Sep 2026 15:25:22 +0530"
-    },
-    {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "pubDate": "Sat, 26 Sep 2026 14:19:53 +0530"
-    },
-    {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "pubDate": "Sat, 26 Sep 2026 13:18:33 +0530"
-    },
-    {
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "pubDate": "Fri, 25 Sep 2026 20:14:41 +0530"
     }
   ]
 }
