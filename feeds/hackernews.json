@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-30T13:30:44Z",
+  "updated": "2026-09-30T18:44:29Z",
   "items": [
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "pubDate": "Wed, 30 Sep 2026 22:16:29 +0530"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "pubDate": "Wed, 30 Sep 2026 22:02:59 +0530"
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "pubDate": "Wed, 30 Sep 2026 20:54:54 +0530"
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "pubDate": "Wed, 30 Sep 2026 20:30:15 +0530"
+    },
     {
       "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
       "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
@@ -41,26 +61,6 @@
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
       "pubDate": "Tue, 29 Sep 2026 22:50:17 +0530"
-    },
-    {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "pubDate": "Tue, 29 Sep 2026 22:50:08 +0530"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530"
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "pubDate": "Tue, 29 Sep 2026 19:15:10 +0530"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530"
     }
   ]
 }
