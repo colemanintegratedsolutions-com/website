@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-01T01:43:56Z",
+  "updated": "2026-10-01T08:06:44Z",
   "items": [
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "pubDate": "Thu, 01 Oct 2026 03:33:57 -0400"
+    },
     {
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -56,11 +61,6 @@
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
       "pubDate": "Tue, 29 Sep 2026 17:30:08 -0400"
-    },
-    {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "pubDate": "Tue, 29 Sep 2026 16:59:39 -0400"
     }
   ]
 }
