@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-01T15:33:01Z",
+  "updated": "2026-10-01T20:43:05Z",
   "items": [
+    {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "pubDate": "Thu, 01 Oct 2026 15:32:47 -0400"
+    },
     {
       "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
@@ -56,11 +61,6 @@
       "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "pubDate": "Wed, 30 Sep 2026 10:46:40 -0400"
-    },
-    {
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "pubDate": "Wed, 30 Sep 2026 10:01:11 -0400"
     }
   ]
 }
