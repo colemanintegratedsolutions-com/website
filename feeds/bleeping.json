@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-06T14:18:47Z",
+  "updated": "2026-10-06T19:37:54Z",
   "items": [
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "pubDate": "Tue, 06 Oct 2026 15:21:53 -0400"
+    },
+    {
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "pubDate": "Tue, 06 Oct 2026 13:34:59 -0400"
+    },
+    {
+      "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "pubDate": "Tue, 06 Oct 2026 12:33:54 -0400"
+    },
+    {
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "pubDate": "Tue, 06 Oct 2026 11:16:44 -0400"
+    },
     {
       "title": "How to secure RMM software: 8 controls MSPs should test",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
@@ -41,26 +61,6 @@
       "title": "Denmark population registry data breach affects 8.8 million people",
       "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
       "pubDate": "Mon, 05 Oct 2026 11:21:10 -0400"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "pubDate": "Mon, 05 Oct 2026 10:53:06 -0400"
-    },
-    {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "pubDate": "Mon, 05 Oct 2026 10:22:12 -0400"
-    },
-    {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "pubDate": "Mon, 05 Oct 2026 09:33:42 -0400"
-    },
-    {
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "pubDate": "Mon, 05 Oct 2026 09:01:45 -0400"
     }
   ]
 }
