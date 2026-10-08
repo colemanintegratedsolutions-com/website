@@ -1171,3 +1171,15 @@ h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; 
   .hero .grid-2 { grid-template-columns:1fr; }
   .shot-grid { grid-template-columns:1fr; }
 }
+
+/* --- Landing page tighten (Oct 2026) --- */
+.hero-for { font-size:.92rem; color:var(--text); margin:-.6rem 0 1.3rem; max-width:520px; }
+.link-muted { color:var(--muted); }
+.trust-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1.25rem; margin-top:1.5rem; }
+.trust-item h3 { margin:0 0 .35rem; font-size:1rem; }
+.trust-item p { margin:0; color:var(--muted); font-size:.92rem; }
+.more-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.5rem; margin-top:1.5rem; }
+.more-item h3 { margin:0 0 .4rem; font-size:1.05rem; }
+.more-item p { margin:0; color:var(--muted); font-size:.95rem; }
+@media (max-width:900px) { .trust-grid { grid-template-columns:1fr 1fr; } .more-grid { grid-template-columns:1fr; } }
+@media (max-width:560px) { .trust-grid { grid-template-columns:1fr; } }
