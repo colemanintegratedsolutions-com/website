@@ -73,7 +73,7 @@
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">No onboarding fee — self-serve setup</p>
-              <div class="plan-device-badge">Up to 25 devices · $10/device/mo beyond</div>
+              <div class="plan-device-badge">25 devices included · up to 50 at $10/device/mo</div>
             </div>
             <ul class="plan-features">
               <li>All 27 compliance frameworks, no per-framework fees</li>
@@ -98,7 +98,7 @@
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">+ $750 one-time onboarding</p>
-              <div class="plan-device-badge">Up to 75 devices · $10/device/mo beyond</div>
+              <div class="plan-device-badge">75 devices included · up to 150 at $10/device/mo</div>
             </div>
             <ul class="plan-features">
               <li>Everything in Starter, plus:</li>
@@ -123,7 +123,7 @@
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">+ $1,500 one-time onboarding</p>
-              <div class="plan-device-badge plan-device-badge--featured">Up to 200 devices · $10/device/mo beyond</div>
+              <div class="plan-device-badge plan-device-badge--featured">200 devices included · up to 500 at $10/device/mo</div>
             </div>
             <ul class="plan-features">
               <li>Everything in Team, plus:</li>
@@ -149,7 +149,7 @@
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">+ $2,500 one-time onboarding · 1,000 devices included, bands above</p>
-              <div class="plan-device-badge">Up to 1,000 devices · custom beyond</div>
+              <div class="plan-device-badge">1,000 devices included · banded above</div>
             </div>
             <ul class="plan-features">
               <li>Everything in Pro, plus:</li>
@@ -165,7 +165,7 @@
           </div>
 
         </div>
-        <p class="muted small" style="text-align:center;margin-top:1.5rem;max-width:720px;margin-left:auto;margin-right:auto">A managed device is any router, switch, firewall, access point or load balancer we scan and monitor. Devices beyond your allowance are billed at $10 per device per month; we'll tell you before it happens and suggest the next plan if it's cheaper. Every plan covers Cisco IOS / IOS-XE / NX-OS / ASA, Fortinet, Palo Alto, Juniper, Arista, Aruba, Check Point, Meraki, Linux and Windows hosts.</p>
+        <p class="muted small" style="text-align:center;margin-top:1.5rem;max-width:720px;margin-left:auto;margin-right:auto">A managed device is any router, switch, firewall, access point or load balancer we scan and monitor. Each plan includes a device allowance and can stretch to a ceiling at $10 per device per month (Starter to 50, Team to 150, Pro to 500); past the ceiling you move up a plan. We tell you before any overage bills. Every plan covers Cisco IOS / IOS-XE / NX-OS / ASA, Fortinet, Palo Alto, Juniper, Arista, Aruba, Check Point, Meraki, Linux and Windows hosts.</p>
       </div>
     </section>
 
@@ -191,6 +191,7 @@
               <div class="plan-device-badge plan-device-badge--featured">Unlimited client tenants</div>
             </div>
             <ul class="plan-features">
+              <li>Everything in the tenant's plan, plus:</li>
               <li>Switch between client tenants in one click; per-client evidence packages</li>
               <li>White-label — your logo, colours and domain on the portal and every PDF</li>
               <li>Partner portal with co-branded sales material</li>
@@ -313,11 +314,11 @@
                 <td class="">1,000</td>
               </tr>
               <tr>
-                <td>Overage per device per month</td>
-                <td class="">$10</td>
-                <td class="">$10</td>
-                <td class="compare-td--featured">$10</td>
-                <td class="">banded</td>
+                <td>Stretch at $10/device/mo up to</td>
+                <td class="">50</td>
+                <td class="">150</td>
+                <td class="compare-td--featured">500</td>
+                <td class="">banded above 1,000</td>
               </tr>
               <tr>
                 <td>Cisco IOS / IOS-XE / NX-OS / ASA · Fortinet · Palo Alto · Juniper · Arista · Aruba · Check Point · Meraki</td>
@@ -550,7 +551,7 @@
           </details>
           <details class="faq-item">
             <summary class="faq-q">What happens if I go over my device allowance?</summary>
-            <p class="faq-a">Devices beyond the allowance are billed at $10 per device per month on your next invoice. We tell you before it happens, and if the next plan would be cheaper for your count we'll say so. Nothing stops scanning.</p>
+            <p class="faq-a">Devices beyond the allowance are billed at $10 per device per month on your next invoice, up to each plan's ceiling: 50 on Starter, 75 to 150 on Team, up to 500 on Pro. Past the ceiling you move to the next plan, which is cheaper at that point anyway. We tell you before any overage bills and nothing stops scanning.</p>
           </details>
           <details class="faq-item">
             <summary class="faq-q">Are any frameworks extra?</summary>
@@ -642,10 +643,10 @@
     const ctaEl = document.getElementById('roiCtaLink');
     const FTE_COST = 105000, OVERAGE = 10;
     const PLANS = [
-      { name: 'Starter', slug: 'starter', monthly: 500, devices: 25 },
-      { name: 'Team', slug: 'team', monthly: 1250, devices: 75 },
-      { name: 'Pro', slug: 'pro', monthly: 2500, devices: 200 },
-      { name: 'Enterprise', slug: 'enterprise', monthly: 7500, devices: 1000 },
+      { name: 'Starter', slug: 'starter', monthly: 500, devices: 25, max: 50 },
+      { name: 'Team', slug: 'team', monthly: 1250, devices: 75, max: 150 },
+      { name: 'Pro', slug: 'pro', monthly: 2500, devices: 200, max: 500 },
+      { name: 'Enterprise', slug: 'enterprise', monthly: 7500, devices: 1000, max: 1000 },
     ];
     function updateROI() {
       const devices = parseInt(slider.value);
@@ -656,6 +657,7 @@
         best = { name: 'Enterprise', slug: 'enterprise', monthly: null };
       } else {
         for (const p of PLANS) {
+          if (devices > p.max) continue;
           const m = p.monthly + Math.max(0, devices - p.devices) * OVERAGE;
           if (!best || m < best.monthly) best = { ...p, monthly: m, overage: Math.max(0, devices - p.devices) };
         }
@@ -666,7 +668,7 @@
         costEl.innerHTML = '$' + annual.toLocaleString() + '<span>/yr</span>';
         savingsEl.textContent = savings > 0 ? '$' + savings.toLocaleString() + ' saved' : '$' + Math.abs(savings).toLocaleString() + ' over a hire';
         savingsEl.className = 'roi-result-val' + (savings > 0 ? ' roi-savings--positive' : '');
-        noteEl.textContent = (best.overage ? best.name + ' includes ' + PLANS.find(p => p.slug === best.slug).devices + ' devices; ' + best.overage + ' more at $10/device/mo is still the cheapest plan for you. ' : '')
+        noteEl.textContent = (best.overage ? best.name + ' includes ' + PLANS.find(p => p.slug === best.slug).devices + ' devices; ' + best.overage + ' more at $10/device/mo. ' : '')
           + 'Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.';
       } else {
         costEl.innerHTML = 'Custom<span> pricing</span>';
