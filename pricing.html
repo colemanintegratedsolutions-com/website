@@ -44,9 +44,9 @@
     <!-- Hero -->
     <section class="pricing-hero">
       <div class="container">
-        <p class="hero-eyebrow">Managed Compliance Retainer</p>
-        <h1>Predictable pricing.<br>Audit-ready outcomes.</h1>
-        <p class="hero-sub" style="max-width:580px">Pick a plan based on the features you need, not the size of your fleet. Each tier includes a fair-use device cap; grow into the next tier when you outgrow your features, not when you add a router. Onboarding is a one-time fee — after that, you pay for continuous automation, not hourly consulting.</p>
+        <p class="hero-eyebrow">Pricing</p>
+        <h1>Published prices.<br>Every framework included.</h1>
+        <p class="hero-sub" style="max-width:600px">Four plans, priced by what you need rather than by counting routers. Every plan covers all 27 compliance frameworks with no per-framework fees. Device allowances are generous and the overage rate is published, so your bill never surprises you.</p>
         <div class="pricing-toggle-wrap">
           <span class="pricing-toggle-label">Monthly</span>
           <label class="pricing-toggle" aria-label="Toggle annual billing">
@@ -61,156 +61,179 @@
     <!-- Plans -->
     <section class="section" id="plans">
       <div class="container">
-        <div class="pricing-grid">
+        <div class="pricing-grid pricing-grid--4">
 
-          <!-- Starter -->
           <div class="plan-card">
+
             <div class="plan-top">
               <p class="plan-name">Starter</p>
-              <p class="plan-tagline">Monitoring and compliance scanning for a single site or small fleet.</p>
+              <p class="plan-tagline">One site or a small fleet. Monitoring and compliance scoring, self-serve.</p>
               <div class="plan-price">
                 <span class="plan-amt" data-monthly="500" data-annual="450">$500</span>
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">No onboarding fee — self-serve setup</p>
-              <div class="plan-device-badge">Fair use up to 25 devices</div>
+              <div class="plan-device-badge">25 devices included · up to 50 at $10/device/mo</div>
             </div>
             <ul class="plan-features">
-              <li>All 25+ compliance frameworks (CIS, NIST, HIPAA, SOC 2, PCI DSS, ISO 27001, FedRAMP &amp; more)</li>
-              <li>Continuous device monitoring — 60-second up/down &amp; latency, down/recovery alerts</li>
-              <li>SNMP telemetry — interfaces, throughput, CPU/memory — and a Device 360 page per device</li>
-              <li>Weekly drift detection &amp; alerting</li>
-              <li>Monthly compliance report (PDF)</li>
-              <li>Config snapshots &amp; diffs</li>
-              <li>EOL / EOS advisory feed</li>
-              <li>Golden image baseline enforcement</li>
-              <li>Email support — 48h response</li>
+              <li>All 27 compliance frameworks, no per-framework fees</li>
+              <li>60-second up/down and latency monitoring, down/recovery alerts, alert log</li>
+              <li>SNMP v2c/v3 telemetry and a Device 360 page per device</li>
+              <li>Weekly drift detection and config snapshots with diffs</li>
+              <li>Per-framework evidence PDFs with control citations</li>
+              <li>Security advisories matched to your devices (PSIRT, CISA KEV)</li>
+              <li>EOL / EOS tracking</li>
+              <li>Email support — 48 h response</li>
             </ul>
             <a class="btn plan-cta" href="contact.html?plan=starter">Get started</a>
           </div>
 
-          <!-- Pro (highlighted) -->
+          <div class="plan-card">
+
+            <div class="plan-top">
+              <p class="plan-name">Team</p>
+              <p class="plan-tagline">The mid-size network with an audit on the calendar.</p>
+              <div class="plan-price">
+                <span class="plan-amt" data-monthly="1,250" data-annual="1,125">$1,250</span>
+                <span class="plan-per">/mo</span>
+              </div>
+              <p class="plan-onboard muted small">+ $750 one-time onboarding</p>
+              <div class="plan-device-badge">75 devices included · up to 150 at $10/device/mo</div>
+            </div>
+            <ul class="plan-features">
+              <li>Everything in Starter, plus:</li>
+              <li>Daily drift scans and baseline locking (SOC 2 CC8.1)</li>
+              <li>Live compliance dashboard and audit calendar with readiness projection</li>
+              <li>Audit package — evidence PDFs, exceptions register, hashed manifest</li>
+              <li>Evidence of operation over an audit period (Type II report)</li>
+              <li>Read-only examiner links, scoped per framework</li>
+              <li>Remediation tasks and evidence request (PBC) tracker</li>
+              <li>Email support — 24 h response</li>
+            </ul>
+            <a class="btn plan-cta" href="contact.html?plan=team">Get started</a>
+          </div>
+
           <div class="plan-card plan-card--featured">
-            <div class="plan-badge">Most Popular</div>
+            <div class="plan-badge">Most popular</div>
             <div class="plan-top">
               <p class="plan-name">Pro</p>
-              <p class="plan-tagline">Full automation stack with live visibility and remediation.</p>
+              <p class="plan-tagline">Full automation stack with remediation, firewall analysis and integrations.</p>
               <div class="plan-price">
                 <span class="plan-amt" data-monthly="2,500" data-annual="2,125">$2,500</span>
                 <span class="plan-per">/mo</span>
               </div>
               <p class="plan-onboard muted small">+ $1,500 one-time onboarding</p>
-              <div class="plan-device-badge plan-device-badge--featured">Fair use up to 200 devices</div>
+              <div class="plan-device-badge plan-device-badge--featured">200 devices included · up to 500 at $10/device/mo</div>
             </div>
             <ul class="plan-features">
-              <li>Everything in Starter, plus:</li>
-              <li>Daily drift scans</li>
-              <li>Live compliance dashboard</li>
-              <li>Automated remediation scripts + one-click push to devices</li>
-              <li>PSIRT advisory-to-device mapping</li>
-              <li>Firewall policy analysis — ACL auditing &amp; unused rule detection</li>
-              <li>ServiceNow E-Bonding — bidirectional ticket sync</li>
-              <li>Baseline locking (SOC 2 CC8.1)</li>
-              <li>Multi-site collectors &amp; heartbeat alerts</li>
-              <li>Monitoring alert log with acknowledgements, 30-day telemetry history</li>
-              <li>Weekly + executive summary reports</li>
-              <li>Up to 10 custom automation workflows/yr</li>
-              <li>Priority support — 24h response</li>
+              <li>Everything in Team, plus:</li>
+              <li>Automated remediation scripts and one-click push to devices</li>
+              <li>Firewall policy analysis — ACL audit, unused rules, hit-count delta</li>
+              <li>ServiceNow e-bonding and webhook integrations</li>
+              <li>Multi-site collectors with heartbeat alerts, 30-day telemetry history</li>
+              <li>Network map, topology and dependency-aware alerting</li>
+              <li>Scheduled report delivery and weekly executive summary</li>
+              <li>Up to 10 custom automation workflows per year</li>
+              <li>Priority support — 24 h response</li>
             </ul>
             <a class="btn plan-cta plan-cta--featured" href="contact.html?plan=pro">Get started</a>
           </div>
 
-          <!-- Enterprise -->
           <div class="plan-card">
+
             <div class="plan-top">
               <p class="plan-name">Enterprise</p>
-              <p class="plan-tagline">Large or regulated environments, with remote console access and AI-assisted remediation.</p>
+              <p class="plan-tagline">Large or regulated estates. White-label, remote console, AI-assisted remediation.</p>
               <div class="plan-price">
                 <span class="plan-amt" data-monthly="7,500" data-annual="6,375">$7,500</span>
                 <span class="plan-per">/mo</span>
               </div>
-              <p class="plan-onboard muted small">starting · + $2,500 one-time onboarding · custom above 1,000 devices</p>
-              <div class="plan-device-badge">Unlimited devices</div>
+              <p class="plan-onboard muted small">+ $2,500 one-time onboarding · 1,000 devices included, bands above</p>
+              <div class="plan-device-badge">1,000 devices included · banded above</div>
             </div>
             <ul class="plan-features">
               <li>Everything in Pro, plus:</li>
-              <li>Remote console — recorded browser terminal to any device via the collector (preview)</li>
-              <li>AI-generated remediation scripts, drift narratives &amp; risk assessments (AIOps)</li>
+              <li>White-label branding — your logo, colours and domain on the portal and PDFs</li>
+              <li>Remote console — recorded browser terminal to any device via the collector</li>
+              <li>AI-generated remediation scripts, drift narratives and risk assessments</li>
+              <li>SIEM / log platform integration, syslog and trap ingestion</li>
+              <li>Cloud security-group controls (AWS, Azure NSG, GCP firewall)</li>
               <li>Unlimited custom automation workflows</li>
-              <li>SIEM / log platform integration</li>
-              <li>Branded audit-ready export package</li>
-              <li>Hybrid cloud network controls (AWS NSG, Azure NSG, GCP firewall)</li>
-              <li>Dedicated success engineer</li>
-              <li>24/7 support — 2h SLA</li>
+              <li>Dedicated success engineer · 24/7 support with 2 h SLA</li>
             </ul>
             <a class="btn plan-cta" href="contact.html?plan=enterprise">Contact sales</a>
           </div>
 
         </div>
-
-        <!-- Fair-use callout -->
-        <div class="fair-use-note">
-          <p class="fair-use-title">About "fair use" device limits</p>
-          <p>Each tier includes a device count that covers typical-use deployments. We don't auto-bill overages or stop scanning if you go slightly over — instead, if your fleet outgrows the tier we'll proactively reach out so we can right-size your plan together. Pricing is feature-driven, not device-meter-driven.</p>
-        </div>
-
-        <p class="muted small pricing-note" style="text-align:center;margin-top:1.5rem">Every plan covers Cisco IOS / IOS-XE / NX-OS / ASA · FortiOS · PAN-OS · Juniper Junos · Arista EOS · Aruba CX · MikroTik · Check Point.</p>
+        <p class="muted small" style="text-align:center;margin-top:1.5rem;max-width:720px;margin-left:auto;margin-right:auto">A managed device is any router, switch, firewall, access point or load balancer we scan and monitor. Each plan includes a device allowance and can stretch to a ceiling at $10 per device per month (Starter to 50, Team to 150, Pro to 500); past the ceiling you move up a plan. We tell you before any overage bills. Every plan covers Cisco IOS / IOS-XE / NX-OS / ASA, Fortinet, Palo Alto, Juniper, Arista, Aruba, Check Point, Meraki, Linux and Windows hosts.</p>
       </div>
     </section>
 
     <!-- MSP Partner section -->
     <section class="section alt" id="msp-partner">
-      <div class="container" style="text-align:center">
-        <p class="hero-eyebrow">For MSPs</p>
-        <h2>Built for MSPs from day one</h2>
-        <p class="muted" style="max-width:680px;margin:0 auto 2rem">Tenant impersonation, per-tenant data isolation, slug-based onboarding, and a partner portal — the only network compliance tool designed for multi-tenant managed service delivery, not retrofitted for it.</p>
-
-        <div class="plan-card plan-card--featured" style="max-width:560px;margin:0 auto 1.5rem;text-align:left">
-          <div class="plan-badge">MSP Partner</div>
-          <div class="plan-top">
-            <p class="plan-name">MSP Partner</p>
-            <p class="plan-tagline">Resell to your clients with white-label branding and shared revenue.</p>
-            <div class="plan-price">
-              <span class="plan-amt" data-monthly="4,000" data-annual="3,400">$4,000</span>
-              <span class="plan-per">/mo base + 15% rev share</span>
-            </div>
-            <p class="plan-onboard muted small">+ $2,500 one-time onboarding (per MSP, not per tenant)</p>
-            <div class="plan-device-badge plan-device-badge--featured">Multi-tenant · unlimited customers</div>
-          </div>
-          <ul class="plan-features">
-            <li>Everything in Pro, applied per-tenant</li>
-            <li>MSP multi-tenant mode — dashboards, per-client evidence exports, switch between tenants in one click</li>
-            <li>White-label branding option — your logo, your colors</li>
-            <li>Partner portal with co-branded sales materials</li>
-            <li>Volume discounts that scale with your client count</li>
-            <li>15% revenue share on customer growth — your MSP grows, we grow</li>
-            <li>Dedicated MSP success engineer</li>
-            <li>Priority support — 24h response, 24/7 for tenant outages</li>
-          </ul>
-          <a class="btn plan-cta plan-cta--featured" href="contact.html?plan=msp">Become an MSP Partner →</a>
+      <div class="container">
+        <div style="text-align:center;max-width:720px;margin:0 auto 2rem">
+          <p class="hero-eyebrow">For MSPs</p>
+          <h2>Per-tenant pricing. Your brand, your margin.</h2>
+          <p class="muted">One platform fee, then a wholesale price per client tenant that mirrors the direct plans. Your clients see your logo and your domain; you set the price you charge them and keep everything above the wholesale rate. No revenue share, no reporting.</p>
         </div>
-
-        <p class="muted small" style="max-width:600px;margin:0 auto">Already managing 5+ client tenants? The MSP Partner tier typically breaks even at 4–5 customers and becomes profitable from there. Talk to us about co-sell motions and volume terms.</p>
+        <div class="msp-grid">
+          <div class="plan-card plan-card--featured" style="text-align:left">
+            <div class="plan-badge">MSP Partner</div>
+            <div class="plan-top">
+              <p class="plan-name">Platform fee</p>
+              <p class="plan-tagline">Multi-tenant mode, white-label and the partner portal.</p>
+              <div class="plan-price">
+                <span class="plan-amt" data-monthly="1,500" data-annual="1,275">$1,500</span>
+                <span class="plan-per">/mo + tenants below</span>
+              </div>
+              <p class="plan-onboard muted small">+ $2,500 one-time onboarding (per MSP, not per tenant)</p>
+              <div class="plan-device-badge plan-device-badge--featured">Unlimited client tenants</div>
+            </div>
+            <ul class="plan-features">
+              <li>Everything in the tenant's plan, plus:</li>
+              <li>Switch between client tenants in one click; per-client evidence packages</li>
+              <li>White-label — your logo, colours and domain on the portal and every PDF</li>
+              <li>Partner portal with co-branded sales material</li>
+              <li>10% off the tenant portion from your 10th tenant, 20% from your 25th</li>
+              <li>Dedicated MSP success engineer · 24 h priority support, 24/7 for tenant outages</li>
+            </ul>
+            <a class="btn plan-cta plan-cta--featured" href="contact.html?plan=msp">Become an MSP Partner →</a>
+          </div>
+          <div class="msp-table-wrap">
+            <table class="compare-table msp-table">
+              <thead><tr><th>Client tenant</th><th>Features</th><th>Direct price</th><th>Your price</th></tr></thead>
+              <tbody>
+                <tr><td>Up to 25 devices</td><td>Team</td><td>$500</td><td><b>$200</b>/mo</td></tr>
+                <tr><td>Up to 75 devices</td><td>Team</td><td>$1,250</td><td><b>$450</b>/mo</td></tr>
+                <tr><td>Up to 200 devices</td><td>Pro</td><td>$2,500</td><td><b>$1,200</b>/mo</td></tr>
+                <tr><td>Up to 1,000 devices</td><td>Enterprise</td><td>$7,500</td><td><b>$3,500</b>/mo</td></tr>
+                <tr><td>Above 1,000 devices</td><td>Enterprise</td><td>custom</td><td>custom</td></tr>
+              </tbody>
+            </table>
+            <p class="muted small" style="margin-top:.75rem">Example: ten small clients cost $1,500 + 10 × $200 × 0.9 = <b>$3,300/mo</b>, or $330 per client. Charge them $500 and you keep 34%; charge $900 and you keep 63%. A single 200-device client through the programme costs more than buying Pro direct, so the savings start at your second client. Enterprise tenants get the Enterprise feature set; the 24/7 SLA and success engineer are yours to provide to your client.</p>
+          </div>
+        </div>
       </div>
     </section>
 
     <!-- vs. FTE anchor -->
-    <section class="section alt">
+    <section class="section">
       <div class="container fte-wrap">
         <div class="fte-text">
           <p class="hero-eyebrow">Cost comparison</p>
-          <h2>Less than one compliance hire — with more coverage.</h2>
-          <p class="muted">A mid-level network compliance engineer runs $90,000–$120,000/yr in salary alone, before benefits, tooling, and training. That's one person, with one framework at a time, and no automated remediation.</p>
-          <p class="muted">Our Pro plan covers up to 200 devices in normal use, runs continuously, and delivers audit evidence on demand — for a fraction of that cost. Every framework is included at every tier; we don't gate compliance behind pricing.</p>
+          <h2>Less than one compliance hire, and less than two tools.</h2>
+          <p class="muted">A mid-level network compliance engineer runs $90,000–$120,000 a year in salary alone. A monitoring tool plus a compliance tool, bought separately, lands most mid-market teams between $40,000 and $70,000 a year, and neither of them turns a switch configuration into audit evidence.</p>
+          <p class="muted">Pro covers up to 200 devices, runs continuously, and produces the evidence on demand for $30,000 a year. Every framework is included at every tier; we don't charge per framework.</p>
         </div>
         <div class="fte-compare">
           <div class="fte-row fte-row--them">
             <p class="fte-label">In-house compliance engineer</p>
             <p class="fte-cost">$90k–$120k<span>/yr</span></p>
             <ul class="fte-cons">
-              <li>Manual audit evidence pulls</li>
-              <li>One compliance focus at a time</li>
-              <li>No automation without additional tooling budget</li>
+              <li>Manual evidence pulls before every audit</li>
+              <li>One framework at a time</li>
+              <li>No monitoring, no automation</li>
               <li>PTO, turnover, onboarding lag</li>
             </ul>
           </div>
@@ -218,9 +241,9 @@
             <p class="fte-label">Coleman Integrated — Pro</p>
             <p class="fte-cost">$30k<span>/yr</span></p>
             <ul class="fte-pros">
-              <li>Automated evidence, audit-ready on demand</li>
-              <li>All 25+ frameworks covered simultaneously</li>
-              <li>Remediation scripts included</li>
+              <li>Evidence packages on demand, period evidence for Type II</li>
+              <li>All 27 frameworks at once</li>
+              <li>Monitoring and remediation included</li>
               <li>Scales with your fleet, not your headcount</li>
             </ul>
           </div>
@@ -229,17 +252,17 @@
     </section>
 
     <!-- ROI Calculator -->
-    <section class="section" id="roi-calc">
+    <section class="section alt" id="roi-calc">
       <div class="container narrow">
-        <p class="hero-eyebrow">ROI Calculator</p>
+        <p class="hero-eyebrow">Which plan</p>
         <h2>See your numbers</h2>
-        <p class="muted" style="margin-bottom:2rem">Adjust your device count to see estimated annual cost and savings versus hiring in-house.</p>
+        <p class="muted" style="margin-bottom:2rem">Set your device count to see the plan it lands in, the annual cost, and the saving against an in-house hire.</p>
 
         <div class="roi-card">
           <div class="roi-input-row">
             <label class="roi-label" for="deviceSlider">Managed devices: <strong id="deviceCount">100</strong></label>
-            <input type="range" id="deviceSlider" class="roi-slider" min="5" max="1000" step="5" value="100">
-            <div class="roi-range-labels"><span>5</span><span>1,000+</span></div>
+            <input type="range" id="deviceSlider" class="roi-slider" min="5" max="1200" step="5" value="100">
+            <div class="roi-range-labels"><span>5</span><span>1,200+</span></div>
           </div>
 
           <div class="roi-results" id="roiResults">
@@ -248,7 +271,7 @@
               <p class="roi-result-val" id="roiPlan">Pro</p>
             </div>
             <div class="roi-result-card">
-              <p class="roi-result-label">Annual retainer cost</p>
+              <p class="roi-result-label">Annual cost</p>
               <p class="roi-result-val" id="roiCost">$30,000<span>/yr</span></p>
             </div>
             <div class="roi-result-card roi-result-card--savings">
@@ -271,218 +294,242 @@
       <div class="container">
         <h2 class="section-heading">Full feature comparison</h2>
         <div class="compare-wrap">
-          <table class="compare-table">
+          <table class="compare-table compare-table--4">
             <thead>
               <tr>
                 <th></th>
                 <th>Starter</th>
+                <th>Team</th>
                 <th class="compare-th--featured">Pro</th>
                 <th>Enterprise</th>
               </tr>
             </thead>
             <tbody>
-              <tr class="compare-group"><td colspan="4">Device &amp; Platform Coverage</td></tr>
+              <tr class="compare-group"><td colspan="5">Devices and platforms</td></tr>
               <tr>
-                <td>Managed devices (fair use)</td>
-                <td>Up to 25</td>
-                <td class="compare-td--featured">Up to 200</td>
-                <td>Unlimited</td>
+                <td>Devices included</td>
+                <td class="">25</td>
+                <td class="">75</td>
+                <td class="compare-td--featured">200</td>
+                <td class="">1,000</td>
               </tr>
               <tr>
-                <td>Cisco IOS-XE / IOS-XR</td>
+                <td>Stretch at $10/device/mo up to</td>
+                <td class="">50</td>
+                <td class="">150</td>
+                <td class="compare-td--featured">500</td>
+                <td class="">banded above 1,000</td>
+              </tr>
+              <tr>
+                <td>Cisco IOS / IOS-XE / NX-OS / ASA · Fortinet · Palo Alto · Juniper · Arista · Aruba · Check Point · Meraki</td>
+                <td class="check">&#10003;</td>
                 <td class="check">&#10003;</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>Fortinet FortiOS</td>
+                <td>Linux and Windows hosts (CIS benchmarks)</td>
+                <td class="check">&#10003;</td>
                 <td class="check">&#10003;</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>Palo Alto PAN-OS</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Meraki / Cloud-managed</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Hybrid cloud network (AWS NSG, Azure NSG, GCP firewall)</td>
+                <td>Cloud security groups (AWS, Azure NSG, GCP firewall)</td>
+                <td class="dash">—</td>
                 <td class="dash">—</td>
                 <td class="dash compare-td--featured">—</td>
                 <td class="check">&#10003;</td>
               </tr>
+              <tr class="compare-group"><td colspan="5">Compliance evidence</td></tr>
               <tr>
-                <td>Juniper / Arista / Aruba CX / MikroTik / Check Point</td>
+                <td>All 27 frameworks, no per-framework fees</td>
                 <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-
-              <tr class="compare-group"><td colspan="4">Compliance Frameworks</td></tr>
-              <tr>
-                <td>Framework mapping (SOC 2, NIST, CIS, HIPAA, PCI DSS, ISO 27001, FedRAMP…)</td>
-                <td colspan="3" class="compare-td--featured" style="text-align:center;font-size:.82rem;color:var(--muted)">Scoped to your regulatory obligations during onboarding — not gated by tier</td>
-              </tr>
-
-              <tr class="compare-group"><td colspan="4">Network Monitoring</td></tr>
-              <tr>
-                <td>Continuous device monitoring — 60-second up/down &amp; latency</td>
                 <td class="check">&#10003;</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>Down / recovery e-mail alerts, alert log &amp; acknowledgements</td>
+                <td>Per-framework evidence PDFs with control names, citations and config snippets</td>
                 <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>SNMP v2c/v3 telemetry — interfaces, throughput, packets, CPU/memory</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Device 360 page — monitoring, compliance, advisories, config in one view</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Remote console — recorded browser terminal via the collector (preview)</td>
-                <td class="dash">—</td>
-                <td class="dash compare-td--featured">—</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr class="compare-group"><td colspan="4">Automation &amp; Monitoring</td></tr>
-              <tr>
-                <td>Golden image enforcement</td>
                 <td class="check">&#10003;</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
                 <td>Drift detection cadence</td>
-                <td>Weekly</td>
+                <td class="">Weekly</td>
+                <td class="">Daily</td>
                 <td class="compare-td--featured">Daily</td>
-                <td>Continuous</td>
+                <td class="">Continuous</td>
               </tr>
               <tr>
-                <td>Config snapshots &amp; diffs</td>
+                <td>Baseline locking (SOC 2 CC8.1)</td>
+                <td class="dash">—</td>
                 <td class="check">&#10003;</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>Automated remediation scripts</td>
+                <td>Live compliance dashboard and audit calendar</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Audit package — evidence PDFs, redacted configs, exceptions register, hashed manifest</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Evidence of operation over an audit period (Type II report)</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Exceptions with expiry and approver; evidence request (PBC) tracker</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Read-only examiner links, scoped per framework</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>White-label branding on portal and PDFs</td>
+                <td class="dash">—</td>
+                <td class="dash">—</td>
+                <td class="dash compare-td--featured">—</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr class="compare-group"><td colspan="5">Monitoring</td></tr>
+              <tr>
+                <td>60-second up/down and latency, down/recovery alerts, alert log</td>
+                <td class="check">&#10003;</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>SNMP v2c/v3 telemetry, Device 360 page per device, hardware health</td>
+                <td class="check">&#10003;</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Telemetry history</td>
+                <td class="">7 days</td>
+                <td class="">30 days</td>
+                <td class="compare-td--featured">30 days</td>
+                <td class="">90 days</td>
+              </tr>
+              <tr>
+                <td>Network map, topology and dependency-aware alerting</td>
+                <td class="dash">—</td>
                 <td class="dash">—</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>PSIRT advisory-to-device mapping</td>
+                <td>Alert routing, maintenance windows, escalation; Slack, Teams, PagerDuty, webhooks</td>
+                <td class="dash">—</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Syslog / trap ingestion, NetFlow and sFlow top talkers</td>
+                <td class="dash">—</td>
                 <td class="dash">—</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
-                <td>EOL/EOS tracking</td>
+                <td>Remote console — recorded browser terminal via the collector</td>
+                <td class="dash">—</td>
+                <td class="dash">—</td>
+                <td class="dash compare-td--featured">—</td>
                 <td class="check">&#10003;</td>
+              </tr>
+              <tr class="compare-group"><td colspan="5">Security advisories and automation</td></tr>
+              <tr>
+                <td>PSIRT / CVE matching to device and version, CISA KEV and ransomware flags</td>
+                <td class="check">&#10003;</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>EOL / EOS tracking</td>
+                <td class="check">&#10003;</td>
+                <td class="check">&#10003;</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Automated remediation scripts and one-click push to devices</td>
+                <td class="dash">—</td>
+                <td class="dash">—</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>Firewall policy analysis — ACL audit, unused rules, hit-count delta</td>
+                <td class="dash">—</td>
+                <td class="dash">—</td>
+                <td class="check compare-td--featured">&#10003;</td>
+                <td class="check">&#10003;</td>
+              </tr>
+              <tr>
+                <td>ServiceNow e-bonding and webhook integrations</td>
+                <td class="dash">—</td>
+                <td class="dash">—</td>
                 <td class="check compare-td--featured">&#10003;</td>
                 <td class="check">&#10003;</td>
               </tr>
               <tr>
                 <td>Custom automation workflows</td>
                 <td class="dash">—</td>
-                <td class="compare-td--featured">10/yr</td>
-                <td>Unlimited</td>
-              </tr>
-              <tr>
-                <td>SIEM / ticketing integrations</td>
                 <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
+                <td class="compare-td--featured">10 / yr</td>
+                <td class="">Unlimited</td>
               </tr>
               <tr>
-                <td>ServiceNow E-Bonding (bidirectional ticket sync)</td>
+                <td>AI-generated remediation, drift narratives and risk assessments</td>
                 <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>One-click remediation push to devices (ncollect push)</td>
-                <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Firewall policy analysis (ACL audit, unused rules, hit-count delta)</td>
-                <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Baseline locking (SOC 2 CC8.1)</td>
-                <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Multi-site fleet monitoring &amp; heartbeat alerts</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>AI-generated remediation scripts, drift narratives &amp; risk assessments (AIOps)</td>
                 <td class="dash">—</td>
                 <td class="dash compare-td--featured">—</td>
                 <td class="check">&#10003;</td>
               </tr>
-
-              <tr class="compare-group"><td colspan="4">Reporting &amp; Visibility</td></tr>
               <tr>
-                <td>Live compliance dashboard</td>
+                <td>SIEM / log platform integration</td>
                 <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Monthly compliance report (PDF)</td>
-                <td class="check">&#10003;</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>Weekly digest &amp; executive summary</td>
-                <td class="dash">—</td>
-                <td class="check compare-td--featured">&#10003;</td>
-                <td class="check">&#10003;</td>
-              </tr>
-              <tr>
-                <td>On-demand audit export package</td>
                 <td class="dash">—</td>
                 <td class="dash compare-td--featured">—</td>
                 <td class="check">&#10003;</td>
               </tr>
-
-              <tr class="compare-group"><td colspan="4">Support</td></tr>
+              <tr class="compare-group"><td colspan="5">Support</td></tr>
               <tr>
-                <td>Email support</td>
-                <td>48h</td>
-                <td class="compare-td--featured">24h priority</td>
-                <td>24/7 — 2h SLA</td>
+                <td>Support response</td>
+                <td class="">48 h e-mail</td>
+                <td class="">24 h e-mail</td>
+                <td class="compare-td--featured">24 h priority</td>
+                <td class="">24/7 · 2 h SLA</td>
               </tr>
               <tr>
                 <td>Dedicated success engineer</td>
+                <td class="dash">—</td>
                 <td class="dash">—</td>
                 <td class="dash compare-td--featured">—</td>
                 <td class="check">&#10003;</td>
@@ -498,66 +545,45 @@
       <div class="container narrow">
         <h2 class="section-heading">Common questions</h2>
         <div class="faq-list">
-
           <details class="faq-item">
-            <summary class="faq-q">What counts as a "managed device"?</summary>
-            <p class="faq-a">Any network device we actively scan, baseline, and monitor — routers, switches, firewalls, access points, and load balancers across your supported platforms. Passive assets (printers, IoT endpoints) do not count toward your device total.</p>
+            <summary class="faq-q">What counts as a managed device?</summary>
+            <p class="faq-a">Any network device we scan and monitor: routers, switches, firewalls, access points and load balancers, plus Linux and Windows hosts you choose to benchmark. Printers, phones and IoT endpoints we discover but don't manage do not count.</p>
           </details>
-
           <details class="faq-item">
-            <summary class="faq-q">What does "fair use" mean for device limits?</summary>
-            <p class="faq-a">Each tier includes a device count that covers typical-use deployments — 25 on Starter, 200 on Pro, unlimited on Enterprise. We don't auto-bill overages or cut off your scans if you go a little over. Instead, if your fleet grows past the fair-use range, we'll proactively reach out to discuss right-sizing your plan together. The pricing model is feature-driven, not device-meter-driven.</p>
+            <summary class="faq-q">What happens if I go over my device allowance?</summary>
+            <p class="faq-a">Devices beyond the allowance are billed at $10 per device per month on your next invoice, up to each plan's ceiling: 50 on Starter, 75 to 150 on Team, up to 500 on Pro. Past the ceiling you move to the next plan, which is cheaper at that point anyway. We tell you before any overage bills and nothing stops scanning.</p>
           </details>
-
+          <details class="faq-item">
+            <summary class="faq-q">Are any frameworks extra?</summary>
+            <p class="faq-a">No. All 27 frameworks are included on every plan, and you can enable as many as you're held to. Compliance-automation tools commonly charge around $5,000 a year per additional framework; we don't.</p>
+          </details>
           <details class="faq-item">
             <summary class="faq-q">What's included in onboarding?</summary>
-            <p class="faq-a">Onboarding covers network discovery and device inventory, golden image definition, framework mapping to your specific environment, pipeline deployment, and a kickoff review session. Most environments are fully onboarded within 2–3 weeks. Starter is self-serve with documentation only — no onboarding fee.</p>
+            <p class="faq-a">Collector install, device discovery and inventory, credential profiles in your Key Vault, framework scoping and a kickoff review. Most environments are onboarded within two weeks. Starter is self-serve with documentation and no onboarding fee.</p>
           </details>
-
           <details class="faq-item">
-            <summary class="faq-q">Can I start on Starter and upgrade later?</summary>
-            <p class="faq-a">Yes. Upgrades take effect at the next billing cycle. We'll re-scope your onboarding configuration to enable the new tier's features — no additional onboarding fee for upgrades.</p>
+            <summary class="faq-q">Can I start small and upgrade later?</summary>
+            <p class="faq-a">Yes. Upgrades take effect at the next billing cycle and there's no additional onboarding fee; you pay the difference in onboarding only if you move from Starter to a plan that includes it.</p>
           </details>
-
           <details class="faq-item">
-            <summary class="faq-q">I'm an MSP — should I use the MSP Partner tier?</summary>
-            <p class="faq-a">If you're managing 5 or more client tenants, yes. The MSP Partner tier includes multi-tenant mode, white-label branding, a partner portal with co-branded sales materials, and 15% revenue share on customer growth. The base $4,000/mo typically breaks even at 4–5 client tenants and becomes net-profitable from there. For 1–2 customers, the standard Pro tier may make more sense — let's talk and we'll model it out.</p>
+            <summary class="faq-q">I'm an MSP — how does the per-tenant model work?</summary>
+            <p class="faq-a">You pay the $1,500 platform fee plus a wholesale price per client tenant based on its size, listed above. Volume breaks apply from your 10th and 25th tenants. You set the price your clients pay and keep the margin; there is no revenue share and nothing to report. From two clients onward it costs less than buying the direct plans.</p>
           </details>
-
-          <details class="faq-item">
-            <summary class="faq-q">Do you support hybrid or multi-vendor environments?</summary>
-            <p class="faq-a">Yes — every plan supports Cisco IOS / IOS-XE / NX-OS / ASA, FortiOS, PAN-OS, Juniper Junos, Arista EOS, Aruba CX, MikroTik, and Check Point. Hybrid cloud network controls (AWS NSG, Azure NSG, GCP firewall) are included from the Enterprise tier and up.</p>
-          </details>
-
           <details class="faq-item">
             <summary class="faq-q">How does annual billing work?</summary>
-            <p class="faq-a">Annual plans are billed upfront for 12 months at a discounted rate — 10% off Starter, 15% off Pro and Enterprise. Onboarding fees apply once regardless of billing term. Annual contracts include a 30-day cancellation window at renewal.</p>
+            <p class="faq-a">Annual plans are billed upfront for 12 months at a discount: 10% off Starter and Team, 15% off Pro, Enterprise and the MSP platform fee. Onboarding fees apply once regardless of billing term.</p>
           </details>
-
           <details class="faq-item">
-            <summary class="faq-q">We're preparing for a SOC 2 audit — which plan do we need?</summary>
-            <p class="faq-a">SOC 2 Type II evidence requires continuous monitoring and timestamped configuration history. Starter covers the baseline framework mapping, but most SOC 2 engagements benefit from the daily scans, live dashboard, automated remediation, and baseline locking (SOC 2 CC8.1) in Pro. We'll map your specific control requirements during onboarding and recommend the right fit.</p>
+            <summary class="faq-q">We're preparing for a SOC 2 Type II audit — which plan?</summary>
+            <p class="faq-a">Team or above. Type II needs evidence that controls operated over the audit period, not just on scan day; Team includes the period evidence report, the exceptions register and read-only examiner links your auditor will ask for. Pro adds remediation and integrations if you also want to fix what the audit finds.</p>
           </details>
-
           <details class="faq-item">
-            <summary class="faq-q">Do you offer project-based work outside of retainers?</summary>
-            <p class="faq-a">Yes, for scoped engagements like one-time audits, network redesigns, or automation builds. Reach out via the contact form and describe your project — we'll respond with a scoping estimate within 1 business day.</p>
+            <summary class="faq-q">Do you offer project work outside of plans?</summary>
+            <p class="faq-a">Yes, for scoped engagements such as one-time audits, network redesigns, segmentation projects or automation builds. Describe the project through the contact form and we'll respond within one business day.</p>
           </details>
-
         </div>
       </div>
     </section>
-
-    <!-- CTA band -->
-    <section class="cta-band">
-      <div class="container">
-        <h2>Not sure which plan fits?</h2>
-        <p>Book a free 30-minute scoping call. We'll inventory your environment, identify your framework obligations, and recommend the right starting point — no commitment required.</p>
-        <a class="btn btn-lg" href="contact.html">Book a scoping call</a>
-      </div>
-    </section>
-
-  </main>
 
   <footer class="site-footer">
     <div class="container footer-grid">
@@ -604,12 +630,10 @@
     const amounts = document.querySelectorAll('.plan-amt[data-monthly]');
     toggle.addEventListener('change', () => {
       const isAnnual = toggle.checked;
-      amounts.forEach(el => {
-        el.textContent = '$' + (isAnnual ? el.dataset.annual : el.dataset.monthly);
-      });
+      amounts.forEach(el => { el.textContent = '$' + (isAnnual ? el.dataset.annual : el.dataset.monthly); });
     });
 
-    // ROI Calculator
+    // Plan picker — allowance + $10/device overage, next plan when it is cheaper
     const slider = document.getElementById('deviceSlider');
     const countEl = document.getElementById('deviceCount');
     const planEl = document.getElementById('roiPlan');
@@ -617,46 +641,44 @@
     const savingsEl = document.getElementById('roiSavings');
     const noteEl = document.getElementById('roiNote');
     const ctaEl = document.getElementById('roiCtaLink');
-    const FTE_COST = 105000;
-
+    const FTE_COST = 105000, OVERAGE = 10;
+    const PLANS = [
+      { name: 'Starter', slug: 'starter', monthly: 500, devices: 25, max: 50 },
+      { name: 'Team', slug: 'team', monthly: 1250, devices: 75, max: 150 },
+      { name: 'Pro', slug: 'pro', monthly: 2500, devices: 200, max: 500 },
+      { name: 'Enterprise', slug: 'enterprise', monthly: 7500, devices: 1000, max: 1000 },
+    ];
     function updateROI() {
       const devices = parseInt(slider.value);
-      const pct = ((devices - 5) / (1000 - 5) * 100).toFixed(1) + '%';
-      slider.style.setProperty('--pct', pct);
-      countEl.textContent = devices >= 1000 ? '1,000+' : devices;
-
-      let plan, annualCost, planSlug;
-      if (devices <= 25) {
-        plan = 'Starter'; annualCost = 500 * 12; planSlug = 'starter';
-      } else if (devices <= 200) {
-        plan = 'Pro'; annualCost = 2500 * 12; planSlug = 'pro';
-      } else if (devices <= 1000) {
-        plan = 'Enterprise'; annualCost = 7500 * 12; planSlug = 'enterprise';
+      slider.style.setProperty('--pct', ((devices - 5) / (1200 - 5) * 100).toFixed(1) + '%');
+      countEl.textContent = devices >= 1200 ? '1,200+' : devices;
+      let best = null;
+      if (devices > 1000) {
+        best = { name: 'Enterprise', slug: 'enterprise', monthly: null };
       } else {
-        plan = 'Enterprise'; annualCost = null; planSlug = 'enterprise';
+        for (const p of PLANS) {
+          if (devices > p.max) continue;
+          const m = p.monthly + Math.max(0, devices - p.devices) * OVERAGE;
+          if (!best || m < best.monthly) best = { ...p, monthly: m, overage: Math.max(0, devices - p.devices) };
+        }
       }
-
-      planEl.textContent = plan;
-
-      if (annualCost !== null) {
-        const savings = FTE_COST - annualCost;
-        costEl.innerHTML = '$' + annualCost.toLocaleString() + '<span>/yr</span>';
-        savingsEl.textContent = savings > 0 ? '$' + savings.toLocaleString() + ' saved' : '$' + Math.abs(savings).toLocaleString() + ' over FTE';
+      planEl.textContent = best.name;
+      if (best.monthly !== null) {
+        const annual = best.monthly * 12, savings = FTE_COST - annual;
+        costEl.innerHTML = '$' + annual.toLocaleString() + '<span>/yr</span>';
+        savingsEl.textContent = savings > 0 ? '$' + savings.toLocaleString() + ' saved' : '$' + Math.abs(savings).toLocaleString() + ' over a hire';
         savingsEl.className = 'roi-result-val' + (savings > 0 ? ' roi-savings--positive' : '');
-        noteEl.textContent = plan === 'Enterprise'
-          ? 'Enterprise pricing starts at $7,500/mo. Fleets above 1,000 devices are scoped individually for optimal economics. Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.'
-          : 'Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.';
+        noteEl.textContent = (best.overage ? best.name + ' includes ' + PLANS.find(p => p.slug === best.slug).devices + ' devices; ' + best.overage + ' more at $10/device/mo. ' : '')
+          + 'Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.';
       } else {
         costEl.innerHTML = 'Custom<span> pricing</span>';
         savingsEl.textContent = 'Contact for estimate';
         savingsEl.className = 'roi-result-val';
-        noteEl.textContent = 'Fleets above 1,000 devices are scoped individually. Contact us to get a tailored cost and ROI estimate for your environment.';
+        noteEl.textContent = 'Above 1,000 devices Enterprise is priced in bands. Contact us for a quote for your environment.';
       }
-
-      ctaEl.textContent = 'Get started with ' + plan + ' →';
-      ctaEl.href = 'contact.html?plan=' + planSlug;
+      ctaEl.textContent = 'Get started with ' + best.name + ' →';
+      ctaEl.href = 'contact.html?plan=' + best.slug;
     }
-
     slider.addEventListener('input', updateROI);
     updateROI();
   </script>
