@@ -1205,3 +1205,12 @@ h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; 
 .msp-table td:nth-child(n+3), .msp-table th:nth-child(n+3) { text-align: right; }
 .msp-table td:first-child { font-weight: 600; }
 .compare-table--4 th:nth-child(n+2) { width: 13%; }
+
+/* --- Pricing tiles: equal heights, aligned price blocks, CTAs on one baseline --- */
+.pricing-grid--4 { align-items: stretch; }
+.pricing-grid--4 .plan-top { display: flex; flex-direction: column; min-height: 15.25rem; margin-bottom: 1rem; }
+.pricing-grid--4 .plan-tagline { min-height: 3.9rem; }
+.pricing-grid--4 .plan-onboard { min-height: 2.6rem; }
+.pricing-grid--4 .plan-device-badge { margin-top: auto; }
+.pricing-grid--4 .plan-cta { margin-top: auto; }
+@media (max-width: 1100px) { .pricing-grid--4 .plan-top { min-height: 0; } .pricing-grid--4 .plan-tagline, .pricing-grid--4 .plan-onboard { min-height: 0; } }
