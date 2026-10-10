@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-10T12:48:32Z",
+  "updated": "2026-10-10T17:34:16Z",
   "items": [
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "pubDate": "Sat, 10 Oct 2026 11:07:54 -0400"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "pubDate": "Sat, 10 Oct 2026 10:16:17 -0400"
+    },
     {
       "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
       "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
@@ -51,16 +61,6 @@
       "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
       "pubDate": "Fri, 09 Oct 2026 04:27:42 -0400"
-    },
-    {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "pubDate": "Fri, 09 Oct 2026 01:41:04 -0400"
-    },
-    {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400"
     }
   ]
 }
