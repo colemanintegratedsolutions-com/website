@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-12T17:12:32Z",
+  "updated": "2026-10-12T23:41:43Z",
   "items": [
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "pubDate": "Mon, 12 Oct 2026 16:13:52 -0400"
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "pubDate": "Mon, 12 Oct 2026 15:23:01 -0400"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "pubDate": "Mon, 12 Oct 2026 14:51:59 -0400"
+    },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
@@ -46,21 +61,6 @@
       "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
       "pubDate": "Sat, 10 Oct 2026 10:16:17 -0400"
-    },
-    {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "pubDate": "Sat, 10 Oct 2026 08:30:39 -0400"
-    },
-    {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400"
-    },
-    {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "pubDate": "Fri, 09 Oct 2026 13:17:23 -0400"
     }
   ]
 }
