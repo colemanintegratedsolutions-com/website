@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-13T19:24:44Z",
+  "updated": "2026-10-13T23:20:56Z",
   "items": [
+    {
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400"
+    },
+    {
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400"
+    },
+    {
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "pubDate": "Tue, 13 Oct 2026 17:16:34 -0400"
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "pubDate": "Tue, 13 Oct 2026 15:56:09 -0400"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "pubDate": "Tue, 13 Oct 2026 15:47:30 -0400"
+    },
     {
       "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
@@ -36,31 +61,6 @@
       "title": "The MFA Gaps Attackers are Still Exploiting",
       "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
       "pubDate": "Tue, 13 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "pubDate": "Tue, 13 Oct 2026 09:51:02 -0400"
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "pubDate": "Mon, 12 Oct 2026 16:13:52 -0400"
-    },
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "pubDate": "Mon, 12 Oct 2026 15:23:01 -0400"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "pubDate": "Mon, 12 Oct 2026 14:51:59 -0400"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "pubDate": "Mon, 12 Oct 2026 12:27:23 -0400"
     }
   ]
 }
