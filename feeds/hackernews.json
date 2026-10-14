@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-14T13:13:19Z",
+  "updated": "2026-10-14T18:05:38Z",
   "items": [
+    {
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530"
+    },
     {
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
@@ -56,11 +61,6 @@
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
       "pubDate": "Tue, 13 Oct 2026 23:50:57 +0530"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "pubDate": "Tue, 13 Oct 2026 23:33:18 +0530"
     }
   ]
 }
