@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-19T17:37:10Z",
+  "updated": "2026-10-19T21:54:09Z",
   "items": [
+    {
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "pubDate": "Mon, 19 Oct 2026 23:02:13 +0530"
+    },
     {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
       "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "pubDate": "Fri, 16 Oct 2026 23:18:45 +0530"
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "pubDate": "Fri, 16 Oct 2026 22:13:39 +0530"
     }
   ]
 }
