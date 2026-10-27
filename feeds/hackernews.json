@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-27T18:49:25Z",
+  "updated": "2026-10-27T22:47:21Z",
   "items": [
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "pubDate": "Tue, 27 Oct 2026 23:56:46 +0530"
+    },
     {
       "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
       "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530"
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "pubDate": "Mon, 26 Oct 2026 23:15:57 +0530"
     }
   ]
 }
