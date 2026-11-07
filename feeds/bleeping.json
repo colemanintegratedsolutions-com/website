@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-07T09:40:40Z",
+  "updated": "2026-11-07T16:00:23Z",
   "items": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "pubDate": "Sat, 07 Nov 2026 10:25:35 -0500"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "pubDate": "Sat, 07 Nov 2026 09:10:19 -0500"
+    },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "MetaMask says recent attack didn't affect wallet infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
       "pubDate": "Fri, 06 Nov 2026 04:22:28 -0500"
-    },
-    {
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "pubDate": "Thu, 05 Nov 2026 19:56:44 -0500"
-    },
-    {
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "pubDate": "Thu, 05 Nov 2026 16:30:30 -0500"
     }
   ]
 }
