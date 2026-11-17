@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-17T08:43:00Z",
+  "updated": "2026-11-17T18:01:12Z",
   "items": [
+    {
+      "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500"
+    },
+    {
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500"
+    },
+    {
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500"
+    },
     {
       "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
@@ -41,26 +61,6 @@
       "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
       "pubDate": "Mon, 16 Nov 2026 11:43:24 -0500"
-    },
-    {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "pubDate": "Mon, 16 Nov 2026 10:44:21 -0500"
-    },
-    {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "pubDate": "Mon, 16 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "pubDate": "Mon, 16 Nov 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "pubDate": "Mon, 16 Nov 2026 07:53:18 -0500"
     }
   ]
 }
