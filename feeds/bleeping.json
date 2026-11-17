@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-17T00:35:24Z",
+  "updated": "2026-11-17T08:43:00Z",
   "items": [
+    {
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500"
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "pubDate": "Tue, 17 Nov 2026 02:25:44 -0500"
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500"
+    },
     {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
@@ -46,21 +61,6 @@
       "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
       "pubDate": "Mon, 16 Nov 2026 07:53:18 -0500"
-    },
-    {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "pubDate": "Mon, 16 Nov 2026 06:18:09 -0500"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "pubDate": "Mon, 16 Nov 2026 06:00:00 -0500"
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "pubDate": "Mon, 16 Nov 2026 04:30:04 -0500"
     }
   ]
 }
