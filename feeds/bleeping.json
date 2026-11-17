@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-16T16:46:28Z",
+  "updated": "2026-11-17T00:35:24Z",
   "items": [
+    {
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "pubDate": "Mon, 16 Nov 2026 17:54:00 -0500"
+    },
+    {
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "pubDate": "Mon, 16 Nov 2026 16:31:44 -0500"
+    },
+    {
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "pubDate": "Mon, 16 Nov 2026 15:59:44 -0500"
+    },
+    {
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "pubDate": "Mon, 16 Nov 2026 14:57:13 -0500"
+    },
     {
       "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
@@ -41,26 +61,6 @@
       "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
       "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
       "pubDate": "Mon, 16 Nov 2026 04:30:04 -0500"
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "pubDate": "Mon, 16 Nov 2026 03:26:52 -0500"
-    },
-    {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "pubDate": "Sun, 15 Nov 2026 13:29:53 -0500"
-    },
-    {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "pubDate": "Sun, 15 Nov 2026 10:23:48 -0500"
-    },
-    {
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "pubDate": "Sat, 14 Nov 2026 12:27:25 -0500"
     }
   ]
 }
