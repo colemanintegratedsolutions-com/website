@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-18T01:04:58Z",
+  "updated": "2026-11-18T08:45:31Z",
   "items": [
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500"
+    },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
@@ -56,11 +61,6 @@
       "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
       "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500"
-    },
-    {
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "pubDate": "Tue, 17 Nov 2026 02:25:44 -0500"
     }
   ]
 }
