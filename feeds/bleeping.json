@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-18T08:45:31Z",
+  "updated": "2026-11-18T17:42:44Z",
   "items": [
+    {
+      "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "pubDate": "Wed, 18 Nov 2026 11:58:42 -0500"
+    },
+    {
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "pubDate": "Wed, 18 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "pubDate": "Wed, 18 Nov 2026 06:50:25 -0500"
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "pubDate": "Wed, 18 Nov 2026 05:35:05 -0500"
+    },
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "pubDate": "Wed, 18 Nov 2026 04:24:31 -0500"
+    },
     {
       "title": "British Scattered Spider hacker sentenced to 6 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
@@ -36,31 +61,6 @@
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500"
-    },
-    {
-      "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500"
-    },
-    {
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500"
-    },
-    {
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500"
-    },
-    {
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500"
     }
   ]
 }
