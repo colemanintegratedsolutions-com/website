@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-19T14:34:49Z",
+  "updated": "2026-11-19T22:31:04Z",
   "items": [
+    {
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "pubDate": "Fri, 20 Nov 2026 00:17:58 +0530"
+    },
+    {
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530"
+    },
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530"
+    },
+    {
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530"
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "pubDate": "Thu, 19 Nov 2026 20:03:06 +0530"
+    },
     {
       "title": "Everything Is a Web Application, Including Your Firewall",
       "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
@@ -36,31 +61,6 @@
       "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
       "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
       "pubDate": "Thu, 19 Nov 2026 00:01:17 +0530"
-    },
-    {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "pubDate": "Wed, 18 Nov 2026 23:45:39 +0530"
-    },
-    {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "pubDate": "Wed, 18 Nov 2026 22:40:45 +0530"
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530"
-    },
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "pubDate": "Wed, 18 Nov 2026 17:58:30 +0530"
-    },
-    {
-      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-      "pubDate": "Wed, 18 Nov 2026 17:45:00 +0530"
     }
   ]
 }
