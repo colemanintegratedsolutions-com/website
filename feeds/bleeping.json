@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-19T22:31:04Z",
+  "updated": "2026-11-20T03:48:42Z",
   "items": [
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500"
+    },
     {
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
@@ -56,11 +61,6 @@
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
       "pubDate": "Wed, 18 Nov 2026 18:08:33 -0500"
-    },
-    {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500"
     }
   ]
 }
