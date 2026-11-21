@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-21T16:52:24Z",
+  "updated": "2026-11-21T21:58:02Z",
   "items": [
+    {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "pubDate": "Sat, 21 Nov 2026 13:01:58 -0500"
+    },
     {
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
       "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
@@ -56,11 +61,6 @@
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
       "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500"
-    },
-    {
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "pubDate": "Thu, 19 Nov 2026 17:25:42 -0500"
     }
   ]
 }
