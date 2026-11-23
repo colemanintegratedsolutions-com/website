@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-23T03:24:37Z",
+  "updated": "2026-11-23T13:23:59Z",
   "items": [
+    {
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "pubDate": "Mon, 23 Nov 2026 07:02:23 -0500"
+    },
+    {
+      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "pubDate": "Mon, 23 Nov 2026 04:11:15 -0500"
+    },
+    {
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "pubDate": "Mon, 23 Nov 2026 02:44:19 -0500"
+    },
     {
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
@@ -46,21 +61,6 @@
       "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "pubDate": "Fri, 20 Nov 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "pubDate": "Fri, 20 Nov 2026 10:58:06 -0500"
-    },
-    {
-      "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind.",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "pubDate": "Fri, 20 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "title": "N-able says recent security breach led to major service outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "pubDate": "Fri, 20 Nov 2026 08:18:36 -0500"
     }
   ]
 }
