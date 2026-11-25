@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-24T21:25:00Z",
+  "updated": "2026-11-25T04:23:57Z",
   "items": [
+    {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "pubDate": "Tue, 24 Nov 2026 16:37:30 -0500"
+    },
     {
       "title": "New Inception extortion gang launches large-scale vishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
@@ -56,11 +61,6 @@
       "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
       "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
       "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500"
-    },
-    {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "pubDate": "Mon, 23 Nov 2026 15:00:20 -0500"
     }
   ]
 }
