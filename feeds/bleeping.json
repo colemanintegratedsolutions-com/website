@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-25T04:23:57Z",
+  "updated": "2026-11-25T14:44:04Z",
   "items": [
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500"
+    },
+    {
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "pubDate": "Wed, 25 Nov 2026 05:10:20 -0500"
+    },
+    {
+      "title": "Microsoft confirms authentication issues after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "pubDate": "Wed, 25 Nov 2026 04:02:57 -0500"
+    },
+    {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "pubDate": "Wed, 25 Nov 2026 02:45:03 -0500"
+    },
     {
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
@@ -41,26 +61,6 @@
       "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
       "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
       "pubDate": "Tue, 24 Nov 2026 10:10:10 -0500"
-    },
-    {
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "pubDate": "Tue, 24 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "pubDate": "Tue, 24 Nov 2026 09:09:37 -0500"
-    },
-    {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "pubDate": "Tue, 24 Nov 2026 08:34:23 -0500"
-    },
-    {
-      "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500"
     }
   ]
 }
