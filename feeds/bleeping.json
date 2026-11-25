@@ -1,7 +1,37 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-25T14:44:04Z",
+  "updated": "2026-11-25T23:25:48Z",
   "items": [
+    {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500"
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500"
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "pubDate": "Wed, 25 Nov 2026 14:39:31 -0500"
+    },
+    {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "pubDate": "Wed, 25 Nov 2026 11:13:40 -0500"
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "pubDate": "Wed, 25 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "pubDate": "Wed, 25 Nov 2026 10:00:00 -0500"
+    },
     {
       "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
@@ -31,36 +61,6 @@
       "title": "New Inception extortion gang launches large-scale vishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
       "pubDate": "Tue, 24 Nov 2026 15:21:20 -0500"
-    },
-    {
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "pubDate": "Tue, 24 Nov 2026 13:59:52 -0500"
-    },
-    {
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "pubDate": "Tue, 24 Nov 2026 12:49:05 -0500"
-    },
-    {
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "pubDate": "Tue, 24 Nov 2026 11:30:19 -0500"
-    },
-    {
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "pubDate": "Tue, 24 Nov 2026 11:22:44 -0500"
-    },
-    {
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "pubDate": "Tue, 24 Nov 2026 11:15:23 -0500"
-    },
-    {
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "pubDate": "Tue, 24 Nov 2026 10:10:10 -0500"
     }
   ]
 }
