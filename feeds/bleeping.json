@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-27T00:12:26Z",
+  "updated": "2026-11-27T08:53:09Z",
   "items": [
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "pubDate": "Fri, 27 Nov 2026 03:06:58 -0500"
+    },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -56,11 +61,6 @@
       "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
       "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
       "pubDate": "Wed, 25 Nov 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500"
     }
   ]
 }
