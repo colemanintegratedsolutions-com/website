@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-28T09:39:45Z",
+  "updated": "2026-11-28T17:53:08Z",
   "items": [
+    {
+      "title": "College Board confirms data breach after unauthorized password changes",
+      "link": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+      "pubDate": "Sat, 28 Nov 2026 12:45:59 -0500"
+    },
+    {
+      "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+      "link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+      "pubDate": "Sat, 28 Nov 2026 10:32:49 -0500"
+    },
     {
       "title": "pCloud confirms password manager hack after suspicious login alerts",
       "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
@@ -51,16 +61,6 @@
       "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
       "pubDate": "Fri, 27 Nov 2026 04:08:16 -0500"
-    },
-    {
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "pubDate": "Fri, 27 Nov 2026 03:06:58 -0500"
-    },
-    {
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "pubDate": "Thu, 26 Nov 2026 16:06:22 -0500"
     }
   ]
 }
