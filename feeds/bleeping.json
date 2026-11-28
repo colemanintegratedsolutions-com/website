@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-27T18:36:45Z",
+  "updated": "2026-11-28T01:44:17Z",
   "items": [
+    {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "pubDate": "Fri, 27 Nov 2026 14:26:04 -0500"
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "pubDate": "Fri, 27 Nov 2026 13:57:42 -0500"
+    },
     {
       "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
@@ -51,16 +61,6 @@
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
       "pubDate": "Thu, 26 Nov 2026 16:06:22 -0500"
-    },
-    {
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "pubDate": "Thu, 26 Nov 2026 12:58:42 -0500"
-    },
-    {
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "pubDate": "Thu, 26 Nov 2026 12:15:27 -0500"
     }
   ]
 }
